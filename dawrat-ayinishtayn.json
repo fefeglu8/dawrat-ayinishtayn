@@ -69,10 +69,22 @@
         ],
         "practice": [
           {
-            "title": "تجميعات الميكانيكا",
-            "videoUrl": "TsR_qG903Lw",
-            "duration": "14:30"
-          }
+            "title": "تجميعات الدرس الثاني الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/81d6b471-0ad8-4b9c-bfe8-248813bcae9b/playlist.m3u8",
+            "duration": "101:05"
+          },
+      {
+            "title": "تجميعات الدرس الثاني الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/27bf6148-0dfa-4a58-95ff-f93a5cf84e4b/playlist.m3u8",
+            "duration": "81:55"
+          },
+      {
+            "title": "تجميعات الدرس الثاني الجزء الثالث",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/351ad69d-5c70-4920-9b18-085724d38fd0/playlist.m3u8",
+            "duration": "94:20"
+          },
+
+          
         ]
       },
       {
@@ -93,8 +105,8 @@
         "practice": [
           {
             "title": "تجميعات الطاقة الدرس الثالث",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/5d98ccc5-aeeb-4016-b003-3b366d4e54c6/playlist.m3u8",
-            "duration": "49:41"
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/e92db12d-c9e5-44d5-992d-a78fee378d1e/playlist.m3u8",
+            "duration": "99:36"
           }
         ]
       },
@@ -111,8 +123,8 @@
         "practice": [
           {
             "title": "تجميعات حالات المادة الدرس الرابع",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/53f00197-e44d-4ede-b78d-d42eeb6d29ec/playlist.m3u8",
-            "duration": "49:41"
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/e082aa4e-7372-4191-b339-df2ecb858ee5/playlist.m3u8",
+            "duration": "47:16"
           }
         ]
       },
@@ -123,13 +135,13 @@
           {
             "title": "الفيديو رقم 1 | الدرس الخامس الموجات والصوت كامل",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/881270f9-8917-46d8-bdf2-9b40c3c70f33/playlist.m3u8",
-            "duration": "130:19"
+            "duration": "79:52"
           }
         ],
         "practice": [
           {
             "title": "تجميعات الموجات والصوت الدرس الخامس ",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/5d98ccc5-aeeb-4016-b003-3b366d4e54c6/playlist.m3u8",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/b3a04c8e-df70-4f0b-bdfb-eb864ab1fbae/playlist.m3u8",
             "duration": "49:41"
           }
         ]
@@ -152,8 +164,8 @@
         "practice": [
           {
             "title": "الدرس السادس الضوء كامل",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/5d98ccc5-aeeb-4016-b003-3b366d4e54c6/playlist.m3u8",
-            "duration": "49:41"
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/db6cf790-73c7-44c8-86b4-88d80c851bb5/playlist.m3u8",
+            "duration": "121:30"
           }
         ]
       },
@@ -179,10 +191,16 @@
         ],
         "practice": [
           {
-            "title": "الدرس السابع الكهرباء كامل",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/5d98ccc5-aeeb-4016-b003-3b366d4e54c6/playlist.m3u8",
-            "duration": "49:41"
-          }
+            "title": "تجميعات الدرس السابع الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/5d6ac8b7-e7ed-483f-9d3f-62e64d8ecf80/playlist.m3u8",
+            "duration": "104:44"
+          },
+                 {
+            "title": "تجميعات الدرس السابع الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/47677df6-8579-444b-ab38-0f51e008699d/playlist.m3u8",
+            "duration": "138:12"
+          },
+          
         ]
       },
            {
@@ -198,8 +216,8 @@
         "practice": [
           {
             "title": "الدرس الثامن المغناطيسية والكهرومغناطيسية كامل ",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/5dbb3c11-8b69-4f90-9120-4dd8f9e21c6b/playlist.m3u8",
-            "duration": "49:41"
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/38413558-1413-49fe-931a-517f64b3295d/playlist.m3u8",
+            "duration": "85:36"
           }
         ]
       },
@@ -221,8 +239,8 @@
         "practice": [
           {
             "title": "الدرس التاسع الفيزياء الحديثة كامل",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/2942a983-b3fc-430a-bb85-970e57ce754f/playlist.m3u8",
-            "duration": "49:41"
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/18cab997-bf03-45de-ab5d-e57b87081207/playlist.m3u8",
+            "duration": "97:12"
           }
         ]
       },
@@ -239,11 +257,11 @@
         "practice": [
           {
             "title": "الفيزياء النووية الدرس العاشر كامل",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/b2b23ff9-7999-4f64-bc08-a546345508f3/playlist.m3u8",
-            "duration": "49:41"
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/84d9bee7-26bb-4e8d-9b65-8164aacc8893/playlist.m3u8",
+            "duration": "48:47"
           }
         ]
-      },
+      }
     ],
     "files": [
       {
@@ -260,14 +278,24 @@
     "laws": [
       {
         "title": "أهم قوانين الفيزياء - الجزء 1",
-        "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/eeeb17bc-a0fd-443e-8c6a-31392289f93a/playlist.m3u8",
-        "duration": "05:30"
+        "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/f9de4b3b-6878-4366-8d23-d310a3ec23db/playlist.m3u8",
+        "duration": "56:56"
       },
       {
-        "title": "ملخص قوانين الحركة",
-        "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/eeeb17bc-a0fd-443e-8c6a-31392289f93a/playlist.m3u8",
-        "duration": "08:15"
-      }
+        "title": "أهم قوانين الفيزياء - الجزء 2",
+        "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/c323d4ea-6416-49a6-a273-a8b1830b2489/playlist.m3u8",
+        "duration": "51:54"
+      },
+          {
+        "title": "أهم قوانين الفيزياء - الجزء 3",
+        "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/c182ee0f-654c-48a8-a3dd-907a68454f12/playlist.m3u8",
+        "duration": "62:02"
+      },
+          {
+        "title": "أهم قوانين الفيزياء - الجزء 4",
+        "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/590bdaa7-e8a0-41e4-8edb-0bfaa4989a78/playlist.m3u8",
+        "duration": "40:29"
+      }      
     ]
   },
   "chemistry": {
