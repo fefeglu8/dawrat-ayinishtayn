@@ -1,1 +1,76 @@
-
+{
+  "physics": {
+    "lessons": [
+      {
+        "id": "p1_l1221",
+        "title": "مقدمة في الفيزياء",
+        "foundation": [
+          {
+            "title": "تأسيس القياس 1",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/8ba18005-626c-4c2a-968d-81b6ac297844/playlist.m3u8",
+            "duration": "15:28"
+          },
+          {
+            "title": "تأسيس",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/8ba18005-626c-4c2a-968d-81b6ac297844/playlist.m3u8",
+            "duration": "15:20"
+          }
+        ],
+        "practice": [
+          {
+            "title": "تجميعات القياس A",
+            "videoUrl": "TsR_qG903Lw",
+            "duration": "08:45"
+          },
+          {
+            "title": "تجميعات القياس B",
+            "videoUrl": "TsR_qG903Lw",
+            "duration": "10:15"
+          }
+        ]
+      },
+      {
+        "id": "p1_l2121",
+        "title": "الحركة الخطية",
+        "foundation": [
+          {
+            "title": "تأسيس السرعة",
+            "videoUrl": "TsR_qG903Lw",
+            "duration": "20:00"
+          }
+        ],
+        "practice": [
+          {
+            "title": "تجميعات السرعة",
+            "videoUrl": "TsR_qG903Lw",
+            "duration": "14:30"
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "title": "ملخص الباب الأول",
+        "url": "https://google.com",
+        "type": "pdf"
+      },
+      {
+        "title": "قوانين الفيزياء الحديثة",
+        "url": "https://google.com",
+        "type": "pdf"
+      }
+    ]
+  },
+  "chemistry": {
+      "lessons": [],
+    "files": []
+  },
+  "biology": {
+    "lessons": [],
+    "files": []
+  },
+  "math": {
+    "lessons": [],
+    "files": []
+  }
+}
