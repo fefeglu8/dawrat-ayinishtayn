@@ -36,19 +36,40 @@
         "title": "الميكانيكا",
         "foundation": [
           {
-            "title": "الفيديو رقم 2 | الدرس الثاني الميكانيكا الجزء الأول",
+            "title": "الفيديو رقم 1 | الدرس الثاني الميكانيكا الجزء الأول",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/b7be041c-f017-4982-98b9-179b38435f0e/playlist.m3u8",
             "duration": "121:47"
           },
              {
-            "title": "الفيديو رقم 3 | الدرس الثاني الميكانيكا الجزء الثاني",
+            "title": "الفيديو رقم 2 | الدرس الثاني الميكانيكا الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/eb1ba47d-1c34-4317-8584-6247accb2b30/playlist.m3u8",
+            "duration": "87:58"
+          },
+                {
+            "title": "الفيديو رقم 3 | الدرس الثاني الميكانيكا الجزء الثالث",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/eb1ba47d-1c34-4317-8584-6247accb2b30/playlist.m3u8",
+            "duration": "87:58"
+          },
+                   {
+            "title": "الفيديو رقم 4 | الدرس الثاني الميكانيكا الجزء الرابع",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/eb1ba47d-1c34-4317-8584-6247accb2b30/playlist.m3u8",
+            "duration": "87:58"
+          },
+                   {
+            "title": "الفيديو رقم 5 | الدرس الثاني الميكانيكا الجزء الخامس",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/eb1ba47d-1c34-4317-8584-6247accb2b30/playlist.m3u8",
+            "duration": "87:58"
+          },
+                   {
+            "title": "الفيديو رقم 6 | الدرس الثاني الميكانيكا الجزء السادس والاخير",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/eb1ba47d-1c34-4317-8584-6247accb2b30/playlist.m3u8",
             "duration": "87:58"
           }
+          
         ],
         "practice": [
           {
-            "title": "تجميعات السرعة",
+            "title": "تجميعات الميكانيكا",
             "videoUrl": "TsR_qG903Lw",
             "duration": "14:30"
           }
