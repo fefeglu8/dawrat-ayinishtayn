@@ -15,7 +15,7 @@
       },
       {
         "id": "p1_l1",
-        "title": "علم الفيزياء",
+        "title": "علم الفيزياء الدرس الاول",
         "foundation": [
           {
             "title": "الفيديو رقم 1 | الدرس الأول علم الفيزياء",
@@ -25,7 +25,7 @@
         ],
         "practice": [
           {
-            "title": "تجميعات الدرس الأول",
+            "title": "تجميعات علم الفيزياء الدرس الاول",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/5d98ccc5-aeeb-4016-b003-3b366d4e54c6/playlist.m3u8",
             "duration": "49:41"
           }
@@ -33,7 +33,7 @@
       },
       {
         "id": "p1_12",
-        "title": "الميكانيكا",
+        "title": "الميكانيكا الدرس الثاني",
         "foundation": [
           {
             "title": "الفيديو رقم 1 | الدرس الثاني الميكانيكا الجزء الأول",
@@ -72,6 +72,29 @@
             "title": "تجميعات الميكانيكا",
             "videoUrl": "TsR_qG903Lw",
             "duration": "14:30"
+          }
+        ]
+      },
+      {
+        "id": "p1_l3",
+        "title": "الطاقة الدرس الثالث",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | الدرس الأول علم الفيزياء",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/eeeb17bc-a0fd-443e-8c6a-31392289f93a/playlist.m3u8",
+            "duration": "1:40:55"
+          },
+            {
+            "title": "الفيديو رقم 1 | الدرس الأول علم الفيزياء",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/eeeb17bc-a0fd-443e-8c6a-31392289f93a/playlist.m3u8",
+            "duration": "1:40:55"
+          }
+        ],
+        "practice": [
+          {
+            "title": "تجميعات الطاقة الدرس الثالث",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/5d98ccc5-aeeb-4016-b003-3b366d4e54c6/playlist.m3u8",
+            "duration": "49:41"
           }
         ]
       }
