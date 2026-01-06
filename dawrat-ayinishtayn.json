@@ -184,7 +184,66 @@
             "duration": "49:41"
           }
         ]
-      }
+      },
+           {
+        "id": "p1_l5",
+        "title": "المغناطيسية والكهرومغناطيسية | الثامن",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | الدرس الثامن المغناطيسية والكهرومغناطيسية كامل",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/5dbb3c11-8b69-4f90-9120-4dd8f9e21c6b/playlist.m3u8",
+            "duration": "115:16"
+          }
+        ],
+        "practice": [
+          {
+            "title": "الدرس الثامن المغناطيسية والكهرومغناطيسية كامل ",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/5dbb3c11-8b69-4f90-9120-4dd8f9e21c6b/playlist.m3u8",
+            "duration": "49:41"
+          }
+        ]
+      },
+        {
+        "id": "p1_l7",
+        "title": "الفيزياء الحديثة | التاسع",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | الفيزياء الحديثة الدرس التاسع  الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/3502286c-0c52-4fe0-9d32-0f50f03226a8/playlist.m3u8",
+            "duration": "85:38"
+          },
+            {
+            "title": "الفيديو رقم 2 | الفيزياء الحديثة الدرس التاسع  الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/2942a983-b3fc-430a-bb85-970e57ce754f/playlist.m3u8",
+            "duration": "76:08"
+          }
+        ],
+        "practice": [
+          {
+            "title": "الدرس التاسع الفيزياء الحديثة كامل",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/2942a983-b3fc-430a-bb85-970e57ce754f/playlist.m3u8",
+            "duration": "49:41"
+          }
+        ]
+      },
+             {
+        "id": "p1_l7",
+        "title": "الفيزياء الحديثة | العاشر ",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | الفيزياء النووية الدرس العاشر كامل",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/b2b23ff9-7999-4f64-bc08-a546345508f3/playlist.m3u8",
+            "duration": "80:43"
+          }
+        ],
+        "practice": [
+          {
+            "title": "الفيزياء النووية الدرس العاشر كامل",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/b2b23ff9-7999-4f64-bc08-a546345508f3/playlist.m3u8",
+            "duration": "49:41"
+          }
+        ]
+      },
     ],
     "files": [
       {
