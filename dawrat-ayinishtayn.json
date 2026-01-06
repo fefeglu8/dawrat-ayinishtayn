@@ -1,15 +1,21 @@
 {
   "physics": {
     "lessons": [
-      {
-        "id": "p1_l1221",
-        "title": "مقدمة في الفيزياء",
+       {
+        "id": "p1_l0",
+        "title": "المقدمة",
         "foundation": [
           {
             "title": "المقدمة",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/adac7ca7-c779-404d-87e6-3d6c91c8c8f3/playlist.m3u8",
             "duration": "17:54"
-          },
+          }
+        ],
+      },
+      {
+        "id": "p1_l1",
+        "title": "علم الفيزياء",
+        "foundation": [
           {
             "title": "الفيديو رقم 1 | الدرس الأول علم الفيزياء",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/eeeb17bc-a0fd-443e-8c6a-31392289f93a/playlist.m3u8",
