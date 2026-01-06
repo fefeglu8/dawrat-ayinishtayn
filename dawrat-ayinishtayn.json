@@ -11,9 +11,8 @@
             "duration": "17:54"
           }
         ],
-        "practice": [],
-        "laws": []
-      }, 
+        "practice": []
+      },
       {
         "id": "p1_l1",
         "title": "علم الفيزياء",
@@ -30,17 +29,10 @@
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/5d98ccc5-aeeb-4016-b003-3b366d4e54c6/playlist.m3u8",
             "duration": "49:41"
           }
-        ],
-        "laws": [
-          {
-            "title": "أهم قوانين القياس",
-            "videoUrl": "https://youtube.com",
-            "duration": "05:30"
-          }
         ]
       },
       {
-        "id": "p1_l2121",
+        "id": "p1_12",
         "title": "الحركة الخطية",
         "foundation": [
           {
@@ -55,8 +47,7 @@
             "videoUrl": "TsR_qG903Lw",
             "duration": "14:30"
           }
-        ],
-        "laws": []
+        ]
       }
     ],
     "files": [
@@ -70,18 +61,33 @@
         "url": "https://drive.google.com/file/d/1kiI7XR9v3Vepy7XLM0QvGJN2sanbbu4T/view?usp=sharing",
         "type": "pdf"
       }
+    ],
+    "laws": [
+      {
+        "title": "أهم قوانين الفيزياء - الجزء 1",
+        "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/eeeb17bc-a0fd-443e-8c6a-31392289f93a/playlist.m3u8",
+        "duration": "05:30"
+      },
+      {
+        "title": "ملخص قوانين الحركة",
+        "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/eeeb17bc-a0fd-443e-8c6a-31392289f93a/playlist.m3u8",
+        "duration": "08:15"
+      }
     ]
   },
   "chemistry": {
     "lessons": [],
-    "files": []
+    "files": [],
+    "laws": []
   },
   "biology": {
     "lessons": [],
-    "files": []
+    "files": [],
+    "laws": []
   },
   "math": {
     "lessons": [],
-    "files": []
+    "files": [],
+    "laws": []
   }
 }
