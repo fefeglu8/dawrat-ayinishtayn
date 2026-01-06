@@ -14,7 +14,6 @@
         "practice": [
         
         ]
-      },
       
       {
         "id": "p1_l1",
@@ -32,7 +31,10 @@
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/5d98ccc5-aeeb-4016-b003-3b366d4e54c6/playlist.m3u8",
             "duration": "49:41"
           }
-        ]
+        ],
+  "laws": [
+   { "title": "أهم قوانين القياس", "videoUrl": "https://youtube.com", "duration": "05:30" }
+     ]
       },
       {
         "id": "p1_l2121",
