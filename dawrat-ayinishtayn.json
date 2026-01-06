@@ -1,7 +1,7 @@
 {
   "physics": {
     "lessons": [
-       {
+      {
         "id": "p1_l0",
         "title": "المقدمة",
         "foundation": [
@@ -11,10 +11,9 @@
             "duration": "17:54"
           }
         ],
-        "practice": [
-        
-        ]
-      
+        "practice": [],
+        "laws": []
+      }, 
       {
         "id": "p1_l1",
         "title": "علم الفيزياء",
@@ -32,9 +31,13 @@
             "duration": "49:41"
           }
         ],
-  "laws": [
-   { "title": "أهم قوانين القياس", "videoUrl": "https://youtube.com", "duration": "05:30" }
-     ]
+        "laws": [
+          {
+            "title": "أهم قوانين القياس",
+            "videoUrl": "https://youtube.com",
+            "duration": "05:30"
+          }
+        ]
       },
       {
         "id": "p1_l2121",
@@ -52,7 +55,8 @@
             "videoUrl": "TsR_qG903Lw",
             "duration": "14:30"
           }
-        ]
+        ],
+        "laws": []
       }
     ],
     "files": [
@@ -69,7 +73,7 @@
     ]
   },
   "chemistry": {
-      "lessons": [],
+    "lessons": [],
     "files": []
   },
   "biology": {
