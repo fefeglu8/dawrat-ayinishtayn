@@ -355,7 +355,7 @@
         ]
       },
       {
-        "id": "p1_l3",
+        "id": "c2_23",
         "title": "قوى التجاذب والروابط | الثالث",
         "foundation": [
           {
@@ -383,7 +383,7 @@
         ]
       },
             {
-        "id": "p1_l4",
+        "id": "c2_24",
         "title": "الحساب الكيميائي | الرابع",
         "foundation": [
           {
@@ -412,7 +412,7 @@
         ]
       },
         {
-        "id": "p1_l5",
+        "id": "c2_25",
         "title": "سرعة التفاعل | الخامس",
         "foundation": [
           {
@@ -440,7 +440,7 @@
         ]
       },
          {
-        "id": "p1_l6",
+        "id": "c2_26",
         "title": "المخاليط والمحاليل | السادس",
         "foundation": [
           {
@@ -468,36 +468,27 @@
         ]
       },
        {
-        "id": "p1_l7",
-        "title": "الكهرباء | السابع ",
+        "id": "c2_27",
+        "title": "الأحماض والقواعد | السابع ",
         "foundation": [
           {
-            "title": "الفيديو رقم 1 | الكهرباء الدرس السابع الجزء الأول",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/080e5991-1afb-42f1-a5a4-86546f9d3cde/playlist.m3u8",
-            "duration": "137:12"
+            "title": "الفيديو رقم 1 | الأحماض والقواعد الدرس السابع الجزء الأول",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/d0688ffb-e7ae-44b3-8d35-8e201384e99b/playlist.m3u8",
+            "duration": "51:47"
           },
             {
-            "title": "الفيديو رقم 2 | الكهرباء الدرس السابع الجزء الثاني",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/5cbb2b3a-930f-4236-afc9-f37232e9496e/playlist.m3u8",
-            "duration": "136:09"
-          },
-             {
-            "title": "الفيديو رقم 3 | الكهرباء الدرس السابع الجزء الثالث",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/c883fa26-4dc0-4009-8e8a-1330b3a14de0/playlist.m3u8",
-            "duration": "120:39"
+            "title": "الفيديو رقم 2 | الأحماض والقواعد الدرس السابع الجزء الثاني",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/87eeca64-22a1-4291-8842-02efe8e70073/playlist.m3u8",
+            "duration": "52:15"
           }
         ],
         "practice": [
           {
             "title": "تجميعات الدرس السابع الجزء الأول",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/5d6ac8b7-e7ed-483f-9d3f-62e64d8ecf80/playlist.m3u8",
-            "duration": "104:44"
-          },
-                 {
-            "title": "تجميعات الدرس السابع الجزء الثاني",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/47677df6-8579-444b-ab38-0f51e008699d/playlist.m3u8",
-            "duration": "138:12"
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/74890144-3042-4366-a3cb-f25fbaaaffa3/playlist.m3u8",
+            "duration": "43:30"
           }
+                
         ]
       },
            {
