@@ -298,7 +298,7 @@
   "chemistry": {
     "lessons": [
       {
-        "id": "p1_l1",
+        "id": "c2_21",
         "title": "الدرس الأول مقدمة في علم الكيمياء",
         "foundation": [
           {
@@ -320,144 +320,150 @@
         "practice": [
           {
             "title": "تجميعات مقدمة في علم الكيمياء الدرس الاول",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/5d98ccc5-aeeb-4016-b003-3b366d4e54c6/playlist.m3u8",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/1249237c-dcb3-4ccd-81f7-3a74930026a6/playlist.m3u8",
             "duration": "88:55"
           }
         ]
       },
       {
-        "id": "p1_12",
-        "title": "الميكانيكا | الدرس الثاني",
+        "id": "c2_22",
+        "title": "نظريات الذرة | الدرس الثاني",
         "foundation": [
           {
-            "title": "الفيديو رقم 1 | الدرس الثاني الميكانيكا الجزء الأول",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/b7be041c-f017-4982-98b9-179b38435f0e/playlist.m3u8",
-            "duration": "121:47"
+            "title": "الفيديو رقم 1 | الدرس الثاني نظريات الذرة الجزء الأول",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/164b90b0-df5e-493b-b2b1-b860dd547c7b/playlist.m3u8",
+            "duration": "60:13"
           },
              {
-            "title": "الفيديو رقم 2 | الدرس الثاني الميكانيكا الجزء الثاني",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/eb1ba47d-1c34-4317-8584-6247accb2b30/playlist.m3u8",
-            "duration": "87:58"
+            "title": "الفيديو رقم 2 | الدرس الثاني نظريات الذرة الجزء الثاني",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/d82b01cd-15e0-43f6-beff-f6b4aabbc07f/playlist.m3u8",
+            "duration": "63:35"
           },
                 {
-            "title": "الفيديو رقم 3 | الدرس الثاني الميكانيكا الجزء الثالث",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/fe73ed85-2977-4132-97a1-e3893d4340da/playlist.m3u8",
-            "duration": "76:47"
-          },
-                   {
-            "title": "الفيديو رقم 4 | الدرس الثاني الميكانيكا الجزء الرابع",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/b686690e-3574-45c8-9e7c-b37cc5bbee1b/playlist.m3u8",
-            "duration": "83:18"
-          },
-                   {
-            "title": "الفيديو رقم 5 | الدرس الثاني الميكانيكا الجزء الخامس",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/14105160-e1f3-40f3-9dbb-919422337c57/playlist.m3u8",
-            "duration": "90:49"
-          },
-                   {
-            "title": "الفيديو رقم 6 | الدرس الثاني الميكانيكا الجزء السادس والاخير",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/ac8da8d9-f5ce-4622-a09b-dbf232d20f48/playlist.m3u8",
-            "duration": "71:50"
+            "title": "الفيديو رقم 3 | الدرس الثاني نظريات الذرة الجزء الثالث",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/0bd9f77d-97af-4768-b56c-4428faa14130/playlist.m3u8",
+            "duration": "62:48"
           }
           
         ],
         "practice": [
           {
-            "title": "تجميعات الدرس الثاني الجزء الأول",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/81d6b471-0ad8-4b9c-bfe8-248813bcae9b/playlist.m3u8",
-            "duration": "101:05"
-          },
-      {
-            "title": "تجميعات الدرس الثاني الجزء الثاني",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/27bf6148-0dfa-4a58-95ff-f93a5cf84e4b/playlist.m3u8",
-            "duration": "81:55"
-          },
-      {
-            "title": "تجميعات الدرس الثاني الجزء الثالث",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/351ad69d-5c70-4920-9b18-085724d38fd0/playlist.m3u8",
-            "duration": "94:20"
+            "title": "تجميعات الدرس الثاني",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/a9217314-9ed3-4ef3-aa93-f2b6b04f4316/playlist.m3u8",
+            "duration": "69:13"
           }
         ]
       },
       {
         "id": "p1_l3",
-        "title": "الطاقة الدرس | الثالث",
+        "title": "قوى التجاذب والروابط | الثالث",
         "foundation": [
           {
-            "title": "الفيديو رقم 1 | الدرس الثالث الطاقة الجزء الأول",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/823f2caf-a9da-44d2-b047-5cffb4d40281/playlist.m3u8",
-            "duration": "81:50"
+            "title": "الفيديو رقم 1 | الدرس الثالث قوى التجاذب والروابط الجزء الأول",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/e33f9a07-4723-40de-b239-4b8c6738f2ea/playlist.m3u8",
+            "duration": "47:06"
           },
             {
-            "title": "الفيديو رقم 2 | الدرس الثالث الطاقة الجزء الثاني",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/407a0024-c8cc-4c13-9e87-238d1089cec1/playlist.m3u8",
-            "duration": "76:18"
+            "title": "الفيديو رقم 2 | الدرس الثالث قوى التجاذب والروابط الجزء الثاني",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/4b512930-ac73-4180-a1fb-745c16307cd6/playlist.m3u8",
+            "duration": "53:56"
+          },
+              {
+            "title": "الفيديو رقم 2 | الدرس الثالث قوى التجاذب والروابط الجزء الثالث",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/68e101e1-3725-48ce-a16d-698caf2a049b/playlist.m3u8",
+            "duration": "47:35"
           }
         ],
         "practice": [
           {
-            "title": "تجميعات الطاقة الدرس الثالث",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/e92db12d-c9e5-44d5-992d-a78fee378d1e/playlist.m3u8",
-            "duration": "99:36"
+            "title": "تجميعات قوى التجاذب والروابط  الدرس الثالث",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/3f86eb65-d561-4480-9629-0177e4da449e/playlist.m3u8",
+            "duration": "69:59"
           }
         ]
       },
             {
         "id": "p1_l4",
-        "title": "حالات المادة | الرابع",
+        "title": "الحساب الكيميائي | الرابع",
         "foundation": [
           {
-            "title": "الفيديو رقم 1 | الدرس الرابع  حالات المادة كامل",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/53f00197-e44d-4ede-b78d-d42eeb6d29ec/playlist.m3u8",
-            "duration": "116:26"
+            "title": "الفيديو رقم 2 | الدرس الرابع ( الحساب الكيميائي ) الجزء الثاني",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/430c5e82-31cd-4f4e-ac62-a5f27a575560/playlist.m3u8",
+            "duration": "44:45"
+          },
+   {
+            "title": "الفيديو رقم 3 | الدرس الرابع ( الحساب الكيميائي ) الجزء اللثالث",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/b56259d2-db84-49e6-924a-ffc8e4b2f21a/playlist.m3u8",
+            "duration": "42:14"
+          },
+   {
+            "title": "الفيديو رقم 4 | الدرس الرابع ( الحساب الكيميائي ) الجزء الرابع",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/8b4036fb-c8a8-44af-b48f-a1b3cff8e85d/playlist.m3u8",
+            "duration": "32:56"
           }
+          
         ],
         "practice": [
           {
-            "title": "تجميعات حالات المادة الدرس الرابع",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/e082aa4e-7372-4191-b339-df2ecb858ee5/playlist.m3u8",
-            "duration": "47:16"
+            "title": "تجميعات الحساب الكيميائي الدرس الرابع",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/e3a39e3f-0bef-4182-96d3-067e65d54d8e/playlist.m3u8",
+            "duration": "90:29"
           }
         ]
       },
         {
         "id": "p1_l5",
-        "title": "الموجات والصوت | الخامس",
+        "title": "سرعة التفاعل | الخامس",
         "foundation": [
           {
-            "title": "الفيديو رقم 1 | الدرس الخامس الموجات والصوت كامل",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/881270f9-8917-46d8-bdf2-9b40c3c70f33/playlist.m3u8",
-            "duration": "79:52"
+            "title": "الفيديو رقم 1 | الدرس الخامس سرعة التفاعل الجزء الاول",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/4a712246-33c1-49ac-aa2b-625b698d7011/playlist.m3u8",
+            "duration": "52:30"
+          },
+               {
+            "title": "الفيديو رقم 2 | الدرس الخامس سرعة التفاعل الجزء الثاني",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/959853c2-a3fe-498f-858b-9534917e0d77/playlist.m3u8",
+            "duration": "37:41"
+          },
+               {
+            "title": "الفيديو رقم 3 | الدرس الخامس سرعة التفاعل الجزء الثالث",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/773e16ad-9ad8-419d-a07c-148735442edb/playlist.m3u8",
+            "duration": "40:18"
           }
         ],
         "practice": [
           {
             "title": "تجميعات الموجات والصوت الدرس الخامس ",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/b3a04c8e-df70-4f0b-bdfb-eb864ab1fbae/playlist.m3u8",
-            "duration": "49:41"
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/7f8dcec7-1cd9-482a-9471-b210f37de139/playlist.m3u8",
+            "duration": "42:16"
           }
         ]
       },
          {
         "id": "p1_l6",
-        "title": "الضوء | السادس",
+        "title": "المخاليط والمحاليل | السادس",
         "foundation": [
           {
-            "title": "الفيديو رقم 1 | الضوء الدرس السادس الجزء الأول",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/d9a97f4c-3809-49ad-9553-f49f29ce8820/playlist.m3u8",
-            "duration": "99:56"
+            "title": "الفيديو رقم 1 | المخاليط والمحاليل الدرس السادس الجزء الأول",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/2d10b631-f466-40d2-8d38-ad577790ecbc/playlist.m3u8",
+            "duration": "33:59"
           },
             {
-            "title": "الفيديو رقم 2 | الضوء الدرس السادس الجزء الثاني",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/e0793bad-cd27-47ab-b986-cf4d43698a77/playlist.m3u8",
-            "duration": "139:37"
+            "title": "الفيديو رقم 2 | المخاليط والمحاليل الدرس السادس الجزء الثاني",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/6a331a47-f752-490b-9b74-e62eb2e26790/playlist.m3u8",
+            "duration": "43:33"
+          },
+              {
+            "title": "الفيديو رقم 3 | المخاليط والمحاليل الدرس السادس الجزء الثالث",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/0a73eed1-5bdc-4aa2-a997-2fb1e6590c6e/playlist.m3u8",
+            "duration": "26:38"
           }
         ],
         "practice": [
           {
-            "title": "الدرس السادس الضوء كامل",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/db6cf790-73c7-44c8-86b4-88d80c851bb5/playlist.m3u8",
-            "duration": "121:30"
+            "title": "الدرس السادس المخاليط والمحاليل كامل",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/8e2cbc7f-0e06-4656-98fe-2535bcf565bc/playlist.m3u8",
+            "duration": "42:34"
           }
         ]
       },
