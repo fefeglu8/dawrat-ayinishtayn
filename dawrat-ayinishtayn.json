@@ -599,8 +599,303 @@
     "laws": []
   },
   "biology": {
-    "lessons": [],
-    "files": [],
+    "lessons": [
+      {
+        "id": "b3_30",
+        "title": "الدرس الأول مقدمة في علم الكيمياء",
+        "foundation": [
+          {
+            "title": "مقدمة مادة الأحياء 2025",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/6cfe3dc5-dfa5-4f07-b9c8-e60a82ebd58f/playlist.m3u8",
+            "duration": "17:30"
+          }
+        ],
+        "practice": [ ]
+      },
+       {
+        "id": "b3_31",
+        "title": "مقدمة في علم الأحياء | الدرس الأول",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | مقدمة في علم الأحياء الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/17fef98b-350c-4f5e-a1e0-d9a159bc8c97/playlist.m3u8",
+            "duration": "36:13"
+          },
+             {
+            "title": "الفيديو رقم 2 | مقدمة في علم الأحياء الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/5feae494-7ba6-4d0d-98eb-373edc922f8d/playlist.m3u8",
+            "duration": "35:13"
+          },
+                {
+            "title": "الفيديو رقم 3 | مقدمة في علم الأحياء الجزء الثالث والأخير",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/35d4bae4-9512-48f1-94e1-5823741519f7/playlist.m3u8",
+            "duration": "49:13"
+          }
+          
+        ],
+        "practice": [ ]
+      },
+      {
+        "id": "b3_32",
+        "title": "التصنيف الحديث | الدرس الثاني",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | التصنيف الحديث الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/207e4b9d-5738-4688-b8c4-4e13b786cf43/playlist.m3u8",
+            "duration": "29:17"
+          },
+             {
+            "title": "الفيديو رقم 2 | التصنيف الحديث الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/02a69908-83ef-42da-a79e-745e1a21e938/playlist.m3u8",
+            "duration": "40:27"
+          },
+                {
+            "title": "الفيديو رقم 3 | التصنيف الحديث الجزء الثالث",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/b2362730-f4af-4eaa-b764-ea0cafeb16dd/playlist.m3u8",
+            "duration": "44:33"
+          }
+          
+        ],
+        "practice": [ ]
+      },
+      {
+        "id": "b3_33",
+        "title": "الطلائعيات والفطريات | الثالث",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | الطلائعيات والفطريات الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/a9b89fcf-c187-4d35-b6f8-d64a8719833f/playlist.m3u8",
+            "duration": "45:14"
+          },
+            {
+            "title": "الفيديو رقم 2 | الطلائعيات والفطريات الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/bcd7417f-e4ec-4fec-9697-f4003e91d9ea/playlist.m3u8",
+            "duration": "65:31"
+          },
+              {
+            "title": "الفيديو رقم 3 | الطلائعيات والفطريات الجزء الثالث",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/a5b0edb9-8e0c-4a47-a7a2-b4b7a60a11c4/playlist.m3u8",
+            "duration": "38:24"
+          }
+        ],
+        "practice": [    ]
+      },
+            {
+        "id": "b3_34",
+        "title": "اللافقاريات | الرابع",
+        "foundation": [
+           {
+            "title": "الفيديو رقم 1 | اللافقاريات الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/b9b22fdf-ddb1-4203-992f-bafa51aff369/playlist.m3u8",
+            "duration": "52:51"
+          },
+          {
+            "title": "الفيديو رقم 2 | اللافقاريات الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/104f7f47-746b-4560-b82d-6a0cedf3b545/playlist.m3u8",
+            "duration": "39:49"
+          },
+   {
+            "title": "الفيديو رقم 3 |اللافقاريات الجزء اللثالث",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/c96e1ec6-3335-418f-9cd0-cd457a0e5ce0/playlist.m3u8",
+            "duration": "49:08"
+          },
+   {
+            "title": "الفيديو رقم 4 | اللافقاريات الجزء الرابع",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/8dcfecb0-7106-4566-8c39-7f6d16c83179/playlist.m3u8",
+            "duration": "68:20"
+          }
+          
+        ],
+        "practice": [
+         
+        ]
+      },
+        {
+        "id": "b3_35",
+        "title": "الفقاريات  | الخامس",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | الفقاريات  الجزء الاول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/24aef1ce-5bd4-4252-8278-1710afe4a475/playlist.m3u8",
+            "duration": "48:09"
+          },
+               {
+            "title": "الفيديو رقم 2 | الفقاريات  الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/b7303371-e8c5-4fb3-aac8-90e0114d5857/playlist.m3u8",
+            "duration": "56:08"
+          },
+               {
+            "title": "الفيديو رقم 3 | الفقاريات  الجزء الثالث",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/5483adb7-9558-4b1b-84c6-44d098baa74e/playlist.m3u8",
+            "duration": "42:13"
+          },
+                {
+            "title": "الفيديو رقم 4 | الفقاريات  الجزء الرابع",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/9a96c4ca-8247-470e-8a27-526e0da1fbda/playlist.m3u8",
+            "duration": "58:21"
+          }
+        ],
+        "practice": [ ]
+      },
+         {
+        "id": "b3_36",
+        "title": "أجهزة جسم الانسان | السادس",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | أجهزة جسم الانسان الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/0903aa64-49ea-48b9-b277-da23749ab372/playlist.m3u8",
+            "duration": "74:21"
+          },
+            {
+            "title": "الفيديو رقم 2 | أجهزة جسم الانسان الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/11a97eeb-2b1c-4a43-a743-2ca6502fc220/playlist.m3u8",
+            "duration": "62:50"
+          },
+              {
+            "title": "الفيديو رقم 3 | أجهزة جسم الانسان الجزء الثالث",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/b7eabbf5-8d66-45b7-a19c-9bb6bc8a440b/playlist.m3u8",
+            "duration": "92:41"
+          },
+                {
+            "title": "الفيديو رقم 4 | أجهزة جسم الانسان  الجزء الرابع",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/1dbd7908-9a39-41a1-b715-ee47a01a1ee9/playlist.m3u8",
+            "duration": "70:16"
+          } 
+        ],
+        "practice": [
+         
+        ]
+      },
+       {
+        "id": "b3_37",
+        "title": "المملكة النباتية | السابع ",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | المملكة النباتية الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/fe999b03-d28d-4e17-860e-48d75213b0ad/playlist.m3u8",
+            "duration": "58:20"
+          },
+            {
+            "title": "الفيديو رقم 2 | المملكة النباتية الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/06c79aee-73d0-458b-8f36-da2ce6ce320f/playlist.m3u8",
+            "duration": "69:00"
+          }
+        ],
+        "practice": [
+                
+        ]
+      },
+           {
+        "id": "b3_38",
+        "title": "الخلية  | الثامن",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | الخلية  الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/b738cc71-6122-4a3c-9a2d-6e3503c72125/playlist.m3u8",
+            "duration": "58:21"
+          },
+           {
+            "title": "الفيديو رقم 2 | الخلية  الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/c9f9395d-3423-4c13-9605-798fa127b5a2/playlist.m3u8",
+            "duration": "68:17"
+          },
+              {
+            "title": "الفيديو رقم 3 | الخلية  الجزء الثالث",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/3d7effd0-6374-4283-98a7-5648c56336cf/playlist.m3u8",
+            "duration": "69:06"
+          },
+              {
+            "title": "الفيديو رقم 4 | الخلية  الجزء الرابع",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/4440f014-8d5b-4124-8c56-2000e5a240fe/playlist.m3u8",
+            "duration": "80:58"
+          }
+        ],
+        "practice": [
+        
+        ]
+      },
+        {
+        "id": "b3_39",
+        "title": "الهيدروكربونات | التاسع",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | الهيدروكربونات الدرس التاسع  الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/8ef1aff4-b59b-4b9b-8212-1e4166d1152a/playlist.m3u8",
+            "duration": "48:43"
+          },
+            {
+            "title": "الفيديو رقم 2 | الهيدروكربونات الدرس التاسع  الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/4a6558f8-03b8-4601-adfa-9daf3623f409/playlist.m3u8",
+            "duration": "48:04"
+          },
+           {
+            "title": "الفيديو رقم 3 | الهيدروكربونات الدرس التاسع  الجزء الثالث",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/0ae1a94e-c13f-4b22-8519-a81337daf889/playlist.m3u8",
+            "duration": "35:07"
+          }
+        ],
+        "practice": [
+          {
+            "title": "الدرس التاسع الهيدروكربونات كامل",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/6989fc4c-0cbe-49b9-a964-af1528c7c2ee/playlist.m3u8",
+            "duration": "56:23"
+          }
+        ]
+      },
+             {
+        "id": "c2_210",
+        "title": "المركبات العضوية | الدرس العاشر ",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | مشتقات الهيدروكربونات الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/9a84b9eb-4b3d-4a93-9c0f-03a4e76aced9/playlist.m3u8",
+            "duration": "41:17"
+          },
+               {
+            "title": "الفيديو رقم 2 | مشتقات الهيدروكربونات الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/23b875fb-b15b-4dc3-98f5-3c49c0ea21fd/playlist.m3u8",
+            "duration": "31:51"
+          },
+               {
+            "title": "الفيديو رقم 3 | مشتقات الهيدروكربونات الجزء الثالث",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/3ba88fbe-0f5b-4e4c-b830-8a248ff9a7f9/playlist.m3u8",
+            "duration": "38:30"
+          }
+          
+        ],
+        "practice": [ ]
+      },
+        {
+        "id": "c2_211",
+        "title": "المركبات العضوية الحيوية | الحادي عشر",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | المركبات العضوية الحيوية الحادي عشر",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/dc2d7b7b-e907-486d-97dd-9bbfec5b8e39/playlist.m3u8",
+            "duration": "48:43"
+          }
+        ],
+        "practice": [
+          {
+            "title": "المركبات العضوية الحيوية الحادي عشر تجميعات",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/10048ff4-5c4a-4432-8a77-8fc7b70a74da/playlist.m3u8",
+            "duration": "56:23"
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "title": "تجميعات الكيمياء ",
+        "url": "https://drive.google.com/file/d/1JTpP1xwiFIt1kMBHGaRLXd7WfXDJFwFa/view?usp=sharing",
+        "type": "pdf"
+      },
+      {
+        "title": "توقعات الكيمياء",
+        "url": "https://drive.google.com/file/d/1rNM2BJGXxn7xfsJA2Ngqm0zaZO7cXAXW/view?usp=sharing",
+        "type": "pdf"
+      }
+    ],
     "laws": []
   },
   "math": {
