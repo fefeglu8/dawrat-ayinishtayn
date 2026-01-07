@@ -602,7 +602,7 @@
     "lessons": [
       {
         "id": "b3_30",
-        "title": "الدرس الأول مقدمة في علم الكيمياء",
+        "title": "مقدمة مادة الأحياء 2025",
         "foundation": [
           {
             "title": "مقدمة مادة الأحياء 2025",
@@ -816,83 +816,85 @@
       },
         {
         "id": "b3_39",
-        "title": "الهيدروكربونات | التاسع",
+        "title": "الوراثة  | التاسع",
         "foundation": [
           {
-            "title": "الفيديو رقم 1 | الهيدروكربونات الدرس التاسع  الجزء الأول",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/8ef1aff4-b59b-4b9b-8212-1e4166d1152a/playlist.m3u8",
-            "duration": "48:43"
+            "title": "الفيديو رقم 1 | الوراثة الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/0f7933b5-7e80-48c2-9460-b63d039d7999/playlist.m3u8",
+            "duration": "92:43"
           },
             {
-            "title": "الفيديو رقم 2 | الهيدروكربونات الدرس التاسع  الجزء الثاني",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/4a6558f8-03b8-4601-adfa-9daf3623f409/playlist.m3u8",
-            "duration": "48:04"
+            "title": "الفيديو رقم 2 | الوراثة الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/3101bc1e-6f2d-438e-a589-f97e24677281/playlist.m3u8",
+            "duration": "85:27"
           },
            {
-            "title": "الفيديو رقم 3 | الهيدروكربونات الدرس التاسع  الجزء الثالث",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/0ae1a94e-c13f-4b22-8519-a81337daf889/playlist.m3u8",
-            "duration": "35:07"
+            "title": "الفيديو رقم 3 | الوراثة الجزء الثالث",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/824efb69-e62e-49c1-9e5a-1eecaedd49c9/playlist.m3u8",
+            "duration": "56:59"
+          },
+            {
+            "title": "الفيديو رقم 4 | الوراثة الجزء الرابع",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/f2e26d9d-a26d-4262-bb25-cf249390c536/playlist.m3u8",
+            "duration": "84:38"
           }
         ],
         "practice": [
-          {
-            "title": "الدرس التاسع الهيدروكربونات كامل",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/6989fc4c-0cbe-49b9-a964-af1528c7c2ee/playlist.m3u8",
-            "duration": "56:23"
-          }
+          
         ]
       },
              {
-        "id": "c2_210",
-        "title": "المركبات العضوية | الدرس العاشر ",
+        "id": "b3_310",
+        "title": "علم البيئة | الدرس العاشر ",
         "foundation": [
           {
-            "title": "الفيديو رقم 1 | مشتقات الهيدروكربونات الجزء الأول",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/9a84b9eb-4b3d-4a93-9c0f-03a4e76aced9/playlist.m3u8",
-            "duration": "41:17"
+            "title": "الفيديو رقم 1 | علم البيئة الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/fe12cba2-31c3-4487-81eb-c84cf980efcd/playlist.m3u8",
+            "duration": "86:55"
           },
                {
-            "title": "الفيديو رقم 2 | مشتقات الهيدروكربونات الجزء الثاني",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/23b875fb-b15b-4dc3-98f5-3c49c0ea21fd/playlist.m3u8",
-            "duration": "31:51"
+            "title": "الفيديو رقم 2 | علم البيئة الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/b3aa5d7e-06fa-4e1b-affc-63072800025e/playlist.m3u8",
+            "duration": "60:50"
           },
                {
-            "title": "الفيديو رقم 3 | مشتقات الهيدروكربونات الجزء الثالث",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/3ba88fbe-0f5b-4e4c-b830-8a248ff9a7f9/playlist.m3u8",
-            "duration": "38:30"
+            "title": "الفيديو رقم 3 | علم البيئة الجزء الثالث",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/0762059c-e7ee-4081-9612-e3b174b9c02c/playlist.m3u8",
+            "duration": "55:21"
           }
           
         ],
         "practice": [ ]
       },
         {
-        "id": "c2_211",
-        "title": "المركبات العضوية الحيوية | الحادي عشر",
+        "id": "b3_311",
+        "title": "التنوع الحيوي | الدرس الأخير",
         "foundation": [
           {
-            "title": "الفيديو رقم 1 | المركبات العضوية الحيوية الحادي عشر",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/dc2d7b7b-e907-486d-97dd-9bbfec5b8e39/playlist.m3u8",
-            "duration": "48:43"
+            "title": "الفيديو رقم 1 | التنوع الحيوي الجزء الاول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/fcc990cc-0b72-4ae8-9b59-13865ad5943d/playlist.m3u8",
+            "duration": "62:01"
+          },
+            {
+            "title": "الفيديو رقم 2 | التنوع الحيوي الجزء الأخير",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/a1c67b87-f6b1-4a8c-a709-885702094578/playlist.m3u8",
+            "duration": "79:21"
           }
         ],
         "practice": [
-          {
-            "title": "المركبات العضوية الحيوية الحادي عشر تجميعات",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/10048ff4-5c4a-4432-8a77-8fc7b70a74da/playlist.m3u8",
-            "duration": "56:23"
-          }
+       
         ]
       }
     ],
     "files": [
       {
-        "title": "تجميعات الكيمياء ",
-        "url": "https://drive.google.com/file/d/1JTpP1xwiFIt1kMBHGaRLXd7WfXDJFwFa/view?usp=sharing",
+        "title": "كتاب الاحياء ",
+        "url": "https://drive.google.com/file/d/1L8xp3kammv5tjUkAtUTVI6XbG_N-yrv7/view?usp=sharing",
         "type": "pdf"
       },
       {
-        "title": "توقعات الكيمياء",
-        "url": "https://drive.google.com/file/d/1rNM2BJGXxn7xfsJA2Ngqm0zaZO7cXAXW/view?usp=sharing",
+        "title": "توقعات الاحياء",
+        "url": "https://drive.google.com/file/d/1nEUptx7pnQB7qHxIfcfk47xrrzBXrc3h/view?usp=sharing",
         "type": "pdf"
       }
     ],
