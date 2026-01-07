@@ -201,7 +201,7 @@
         ]
       },
            {
-        "id": "p1_l5",
+        "id": "p1_l8",
         "title": "المغناطيسية والكهرومغناطيسية | الثامن",
         "foundation": [
           {
@@ -219,7 +219,7 @@
         ]
       },
         {
-        "id": "p1_l7",
+        "id": "p1_l9",
         "title": "الفيزياء الحديثة | التاسع",
         "foundation": [
           {
@@ -242,7 +242,7 @@
         ]
       },
              {
-        "id": "p1_l7",
+        "id": "p1_l10",
         "title": "الفيزياء الحديثة | العاشر ",
         "foundation": [
           {
@@ -296,9 +296,301 @@
     ]
   },
   "chemistry": {
-    "lessons": [],
-    "files": [],
-    "laws": []
+ {
+    "lessons": [
+      {
+        "id": "p1_l0",
+        "title": "المقدمة",
+        "foundation": [
+          {
+            "title": "المقدمة",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/adac7ca7-c779-404d-87e6-3d6c91c8c8f3/playlist.m3u8",
+            "duration": "17:54"
+          }
+        ],
+        "practice": []
+      },
+      {
+        "id": "p1_l1",
+        "title": "علم الفيزياء | الدرس الاول",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | الدرس الأول علم الفيزياء",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/eeeb17bc-a0fd-443e-8c6a-31392289f93a/playlist.m3u8",
+            "duration": "1:40:55"
+          }
+        ],
+        "practice": [
+          {
+            "title": "تجميعات علم الفيزياء الدرس الاول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/5d98ccc5-aeeb-4016-b003-3b366d4e54c6/playlist.m3u8",
+            "duration": "49:41"
+          }
+        ]
+      },
+      {
+        "id": "p1_12",
+        "title": "الميكانيكا | الدرس الثاني",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | الدرس الثاني الميكانيكا الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/b7be041c-f017-4982-98b9-179b38435f0e/playlist.m3u8",
+            "duration": "121:47"
+          },
+             {
+            "title": "الفيديو رقم 2 | الدرس الثاني الميكانيكا الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/eb1ba47d-1c34-4317-8584-6247accb2b30/playlist.m3u8",
+            "duration": "87:58"
+          },
+                {
+            "title": "الفيديو رقم 3 | الدرس الثاني الميكانيكا الجزء الثالث",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/fe73ed85-2977-4132-97a1-e3893d4340da/playlist.m3u8",
+            "duration": "76:47"
+          },
+                   {
+            "title": "الفيديو رقم 4 | الدرس الثاني الميكانيكا الجزء الرابع",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/b686690e-3574-45c8-9e7c-b37cc5bbee1b/playlist.m3u8",
+            "duration": "83:18"
+          },
+                   {
+            "title": "الفيديو رقم 5 | الدرس الثاني الميكانيكا الجزء الخامس",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/14105160-e1f3-40f3-9dbb-919422337c57/playlist.m3u8",
+            "duration": "90:49"
+          },
+                   {
+            "title": "الفيديو رقم 6 | الدرس الثاني الميكانيكا الجزء السادس والاخير",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/ac8da8d9-f5ce-4622-a09b-dbf232d20f48/playlist.m3u8",
+            "duration": "71:50"
+          }
+          
+        ],
+        "practice": [
+          {
+            "title": "تجميعات الدرس الثاني الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/81d6b471-0ad8-4b9c-bfe8-248813bcae9b/playlist.m3u8",
+            "duration": "101:05"
+          },
+      {
+            "title": "تجميعات الدرس الثاني الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/27bf6148-0dfa-4a58-95ff-f93a5cf84e4b/playlist.m3u8",
+            "duration": "81:55"
+          },
+      {
+            "title": "تجميعات الدرس الثاني الجزء الثالث",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/351ad69d-5c70-4920-9b18-085724d38fd0/playlist.m3u8",
+            "duration": "94:20"
+          }
+        ]
+      },
+      {
+        "id": "p1_l3",
+        "title": "الطاقة الدرس | الثالث",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | الدرس الثالث الطاقة الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/823f2caf-a9da-44d2-b047-5cffb4d40281/playlist.m3u8",
+            "duration": "81:50"
+          },
+            {
+            "title": "الفيديو رقم 2 | الدرس الثالث الطاقة الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/407a0024-c8cc-4c13-9e87-238d1089cec1/playlist.m3u8",
+            "duration": "76:18"
+          }
+        ],
+        "practice": [
+          {
+            "title": "تجميعات الطاقة الدرس الثالث",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/e92db12d-c9e5-44d5-992d-a78fee378d1e/playlist.m3u8",
+            "duration": "99:36"
+          }
+        ]
+      },
+            {
+        "id": "p1_l4",
+        "title": "حالات المادة | الرابع",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | الدرس الرابع  حالات المادة كامل",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/53f00197-e44d-4ede-b78d-d42eeb6d29ec/playlist.m3u8",
+            "duration": "116:26"
+          }
+        ],
+        "practice": [
+          {
+            "title": "تجميعات حالات المادة الدرس الرابع",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/e082aa4e-7372-4191-b339-df2ecb858ee5/playlist.m3u8",
+            "duration": "47:16"
+          }
+        ]
+      },
+        {
+        "id": "p1_l5",
+        "title": "الموجات والصوت | الخامس",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | الدرس الخامس الموجات والصوت كامل",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/881270f9-8917-46d8-bdf2-9b40c3c70f33/playlist.m3u8",
+            "duration": "79:52"
+          }
+        ],
+        "practice": [
+          {
+            "title": "تجميعات الموجات والصوت الدرس الخامس ",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/b3a04c8e-df70-4f0b-bdfb-eb864ab1fbae/playlist.m3u8",
+            "duration": "49:41"
+          }
+        ]
+      },
+         {
+        "id": "p1_l6",
+        "title": "الضوء | السادس",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | الضوء الدرس السادس الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/d9a97f4c-3809-49ad-9553-f49f29ce8820/playlist.m3u8",
+            "duration": "99:56"
+          },
+            {
+            "title": "الفيديو رقم 2 | الضوء الدرس السادس الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/e0793bad-cd27-47ab-b986-cf4d43698a77/playlist.m3u8",
+            "duration": "139:37"
+          }
+        ],
+        "practice": [
+          {
+            "title": "الدرس السادس الضوء كامل",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/db6cf790-73c7-44c8-86b4-88d80c851bb5/playlist.m3u8",
+            "duration": "121:30"
+          }
+        ]
+      },
+       {
+        "id": "p1_l7",
+        "title": "الكهرباء | السابع ",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | الكهرباء الدرس السابع الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/080e5991-1afb-42f1-a5a4-86546f9d3cde/playlist.m3u8",
+            "duration": "137:12"
+          },
+            {
+            "title": "الفيديو رقم 2 | الكهرباء الدرس السابع الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/5cbb2b3a-930f-4236-afc9-f37232e9496e/playlist.m3u8",
+            "duration": "136:09"
+          },
+             {
+            "title": "الفيديو رقم 3 | الكهرباء الدرس السابع الجزء الثالث",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/c883fa26-4dc0-4009-8e8a-1330b3a14de0/playlist.m3u8",
+            "duration": "120:39"
+          }
+        ],
+        "practice": [
+          {
+            "title": "تجميعات الدرس السابع الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/5d6ac8b7-e7ed-483f-9d3f-62e64d8ecf80/playlist.m3u8",
+            "duration": "104:44"
+          },
+                 {
+            "title": "تجميعات الدرس السابع الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/47677df6-8579-444b-ab38-0f51e008699d/playlist.m3u8",
+            "duration": "138:12"
+          }
+        ]
+      },
+           {
+        "id": "p1_l8",
+        "title": "المغناطيسية والكهرومغناطيسية | الثامن",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | الدرس الثامن المغناطيسية والكهرومغناطيسية كامل",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/5dbb3c11-8b69-4f90-9120-4dd8f9e21c6b/playlist.m3u8",
+            "duration": "115:16"
+          }
+        ],
+        "practice": [
+          {
+            "title": "الدرس الثامن المغناطيسية والكهرومغناطيسية كامل ",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/38413558-1413-49fe-931a-517f64b3295d/playlist.m3u8",
+            "duration": "85:36"
+          }
+        ]
+      },
+        {
+        "id": "p1_l9",
+        "title": "الفيزياء الحديثة | التاسع",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | الفيزياء الحديثة الدرس التاسع  الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/3502286c-0c52-4fe0-9d32-0f50f03226a8/playlist.m3u8",
+            "duration": "85:38"
+          },
+            {
+            "title": "الفيديو رقم 2 | الفيزياء الحديثة الدرس التاسع  الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/2942a983-b3fc-430a-bb85-970e57ce754f/playlist.m3u8",
+            "duration": "76:08"
+          }
+        ],
+        "practice": [
+          {
+            "title": "الدرس التاسع الفيزياء الحديثة كامل",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/18cab997-bf03-45de-ab5d-e57b87081207/playlist.m3u8",
+            "duration": "97:12"
+          }
+        ]
+      },
+             {
+        "id": "p1_l10",
+        "title": "الفيزياء الحديثة | العاشر ",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | الفيزياء النووية الدرس العاشر كامل",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/b2b23ff9-7999-4f64-bc08-a546345508f3/playlist.m3u8",
+            "duration": "80:43"
+          }
+        ],
+        "practice": [
+          {
+            "title": "الفيزياء النووية الدرس العاشر كامل",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/84d9bee7-26bb-4e8d-9b65-8164aacc8893/playlist.m3u8",
+            "duration": "48:47"
+          }
+        ]
+      }
+    ],
+    "files": [
+      {
+        "title": "تجميعات الفيزياء",
+        "url": "https://drive.google.com/file/d/1dKOhPlx8UD9RA_A8QgrfPRxafPCvfwfY/view?usp=sharing",
+        "type": "pdf"
+      },
+      {
+        "title": "توقعات الفيزياء",
+        "url": "https://drive.google.com/file/d/1kiI7XR9v3Vepy7XLM0QvGJN2sanbbu4T/view?usp=sharing",
+        "type": "pdf"
+      }
+    ],
+    "laws": [
+      {
+        "title": "أهم قوانين الفيزياء - الجزء 1",
+        "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/f9de4b3b-6878-4366-8d23-d310a3ec23db/playlist.m3u8",
+        "duration": "56:56"
+      },
+      {
+        "title": "أهم قوانين الفيزياء - الجزء 2",
+        "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/c323d4ea-6416-49a6-a273-a8b1830b2489/playlist.m3u8",
+        "duration": "51:54"
+      },
+          {
+        "title": "أهم قوانين الفيزياء - الجزء 3",
+        "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/c182ee0f-654c-48a8-a3dd-907a68454f12/playlist.m3u8",
+        "duration": "62:02"
+      },
+          {
+        "title": "أهم قوانين الفيزياء - الجزء 4",
+        "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/590bdaa7-e8a0-41e4-8edb-0bfaa4989a78/playlist.m3u8",
+        "duration": "40:29"
+      }      
+    ]
   },
   "biology": {
     "lessons": [],
