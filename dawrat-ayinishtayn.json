@@ -296,35 +296,32 @@
     ]
   },
   "chemistry": {
- 
     "lessons": [
       {
-        "id": "p1_l0",
-        "title": "المقدمة",
-        "foundation": [
-          {
-            "title": "المقدمة",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/adac7ca7-c779-404d-87e6-3d6c91c8c8f3/playlist.m3u8",
-            "duration": "17:54"
-          }
-        ],
-        "practice": []
-      },
-      {
         "id": "p1_l1",
-        "title": "علم الفيزياء | الدرس الاول",
+        "title": "الدرس الأول مقدمة في علم الكيمياء",
         "foundation": [
           {
-            "title": "الفيديو رقم 1 | الدرس الأول علم الفيزياء",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/eeeb17bc-a0fd-443e-8c6a-31392289f93a/playlist.m3u8",
-            "duration": "1:40:55"
-          }
+            "title": "الفيديو رقم 1 | الدرس الأول مقدمة في علم الكيمياء الجزء الأول",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/95d4b8e5-988b-4440-99a5-1a887eef10e7/playlist.m3u8",
+            "duration": "40:34"
+          },
+         {
+            "title": "الفيديو رقم 1 | الدرس الأول مقدمة في علم الكيمياء الجزء الثاني",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/ee6b284e-db05-45ee-bee3-f2c4c850494a/playlist.m3u8",
+            "duration": "59:32"
+          },
+         {
+            "title": "الفيديو رقم 1 | الدرس الأول مقدمة في علم الكيمياء الجزء الثالث",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/c3623c27-cd66-4343-8b25-82e2d2cfff3b/playlist.m3u8",
+            "duration": "64:06"
+          } 
         ],
         "practice": [
           {
-            "title": "تجميعات علم الفيزياء الدرس الاول",
+            "title": "تجميعات مقدمة في علم الكيمياء الدرس الاول",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/5d98ccc5-aeeb-4016-b003-3b366d4e54c6/playlist.m3u8",
-            "duration": "49:41"
+            "duration": "88:55"
           }
         ]
       },
@@ -569,28 +566,7 @@
         "type": "pdf"
       }
     ],
-    "laws": [
-      {
-        "title": "أهم قوانين الفيزياء - الجزء 1",
-        "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/f9de4b3b-6878-4366-8d23-d310a3ec23db/playlist.m3u8",
-        "duration": "56:56"
-      },
-      {
-        "title": "أهم قوانين الفيزياء - الجزء 2",
-        "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/c323d4ea-6416-49a6-a273-a8b1830b2489/playlist.m3u8",
-        "duration": "51:54"
-      },
-          {
-        "title": "أهم قوانين الفيزياء - الجزء 3",
-        "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/c182ee0f-654c-48a8-a3dd-907a68454f12/playlist.m3u8",
-        "duration": "62:02"
-      },
-          {
-        "title": "أهم قوانين الفيزياء - الجزء 4",
-        "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/590bdaa7-e8a0-41e4-8edb-0bfaa4989a78/playlist.m3u8",
-        "duration": "40:29"
-      }      
-    ]
+    "laws": []
   },
   "biology": {
     "lessons": [],
