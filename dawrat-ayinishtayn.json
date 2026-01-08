@@ -387,6 +387,11 @@
         "title": "الحساب الكيميائي | الرابع",
         "foundation": [
           {
+            "title": "الفيديو رقم 1 | الدرس الرابع ( الحساب الكيميائي ) الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/1a531a6e-b0af-48c9-82ef-e33a76e83bbe/playlist.m3u8",
+            "duration": "55:45"
+          },
+          {
             "title": "الفيديو رقم 2 | الدرس الرابع ( الحساب الكيميائي ) الجزء الثاني",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/af116c31-633d-4834-87f5-c1f77bc6a210/playlist.m3u8",
             "duration": "44:45"
@@ -901,8 +906,277 @@
     "laws": []
   },
   "math": {
-    "lessons": [],
-    "files": [],
+    "lessons": [
+      {
+        "id": "m4_40",
+        "title": "مقدمة الرياضيات 2025",
+        "foundation": [
+          {
+            "title": "مقدمة الرياضيات 2025",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/ed2b9804-1072-4c65-8d48-461c9d9c8a81/playlist.m3u8",
+            "duration": "10:43"
+          }
+        ],
+        "practice": [ ]
+      },
+       {
+        "id": "m4_41",
+        "title": "المنطق الرياضي | الدرس الأول",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | المنطق الرياضي الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/6e6fccf8-e60a-4662-81d0-3e57a97530d3/playlist.m3u8",
+            "duration": "86:28"
+          },
+             {
+            "title": "الفيديو رقم 2 | المنطق الرياضي الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/727075b5-713a-443d-81ab-790461378bd2/playlist.m3u8",
+            "duration": "42:07"
+          }
+        ],
+        "practice": [ {
+            "title": "المنطق الرياضي الدرس الأول كامل",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/d2681f33-9af2-409a-bbd9-7616ad20c42d/playlist.m3u8",
+            "duration": "120:05"
+          } ]
+      },
+      {
+        "id": "m4_42",
+        "title": "المثلثات والمضلعات | الدرس الثاني",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | المثلثات والمضلعات",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/11da46bf-dec7-44da-89de-fe0e431ec10a/playlist.m3u8",
+            "duration": "87:55"
+          }
+        ],
+        "practice": [ {
+            "title": "المثلثات والمضلعات تجميعات",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/ec06919b-5afa-4b7a-9ea5-47a72354f866/playlist.m3u8",
+            "duration": "110:34"
+          } ]
+      },
+      {
+        "id": "m4_43",
+        "title": "الأشكال الرباعية | الثالث",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | الأشكال الرباعية الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/bb3a4b36-6481-4ece-a86b-65fdcf9cee10/playlist.m3u8",
+            "duration": "74:41"
+          },
+            {
+            "title": "الفيديو رقم 2 | الأشكال الرباعية الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/f1a42ffb-3453-4c61-b6fc-697f40e609f0/playlist.m3u8",
+            "duration": "62:21"
+          }
+        ],
+        "practice": [  {
+            "title": "الأشكال الرباعية تجميعات",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/f7605417-73c9-4c48-bb45-bbb82b52182b/playlist.m3u8",
+            "duration": "83:07"
+          }  ]
+      },
+            {
+        "id": "m4_44",
+        "title": "الدائرة  | الرابع",
+        "foundation": [
+           {
+            "title": "الفيديو رقم 1 | الدائرة ",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/697661aa-f5d4-4d08-b3e0-876f0701f344/playlist.m3u8",
+            "duration": "67:47"
+          }
+          
+        ],
+        "practice": [
+           {
+            "title": "الدائرة تجميعات",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/cc47aae0-60bf-4f47-ac96-bb3db9ba605e/playlist.m3u8",
+            "duration": "62:57"
+          } 
+        ]
+      },
+        {
+        "id": "m4_45",
+        "title": "الدوال | الخامس",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | الدوال الجزء الاول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/e61873e0-2180-4cef-9832-8c4c97892d27/playlist.m3u8",
+            "duration": "71:58"
+          },
+               {
+            "title": "الفيديو رقم 2 | الدوال الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/fe2c0093-2d3f-4dce-8513-7f68a39e7cb3/playlist.m3u8",
+            "duration": "73:36"
+          }
+        ],
+        "practice": [  {
+            "title": "الدوال تجميعات",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/b3fc149f-c806-4a5b-98a8-57a644f017fd/playlist.m3u8",
+            "duration": "122:31"
+          }  ]
+      },
+         {
+        "id": "m4_46",
+        "title": "كثيرات الحدود | السادس",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | كثيرات الحدود الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/044a0aaa-838e-45b1-8fa2-f6a0a5702a05/playlist.m3u8",
+            "duration": "59:17"
+          },
+            {
+            "title": "الفيديو رقم 2 | كثيرات الحدود الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/b9ced19c-d536-45e8-b23a-3f41e4d20339/playlist.m3u8",
+            "duration": "59:16"
+          },
+              {
+            "title": "الفيديو رقم 3 | كثيرات الحدود الجزء الثالث",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/ba0483c7-c47f-4bae-ac6c-53f2123c24c0/playlist.m3u8",
+            "duration": "32:28"
+          }
+        ],
+        "practice": [
+         {
+            "title": "كثيرات الحدود تجميعات",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/2fae7d81-1ada-4ad1-a987-379228fc071d/playlist.m3u8",
+            "duration": "110:11"
+          } 
+        ]
+      },
+       {
+        "id": "m4_47",
+        "title": "الدوال  | السابع ",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | الدوال  الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/abb41a99-b33a-40eb-b0a4-aca2ce9ad26d/playlist.m3u8",
+            "duration": "88:08"
+          },
+            {
+            "title": "الفيديو رقم 2 | الدوال  الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/04d668df-bc34-4fef-9227-2310af2eb77b/playlist.m3u8",
+            "duration": "103:17"
+          }
+        ],
+        "practice": [
+        {
+            "title": "الدوال  تجميعات",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/ff1bc91f-4159-4bc5-9388-bc6da4d8df57/playlist.m3u8",
+            "duration": "156:07"
+          }          
+        ]
+      },
+           {
+        "id": "m4_48",
+        "title": "المتتابعات  | الثامن",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | المتتابعات  الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/8402d051-db0a-4593-b7bc-1fec54351dc0/playlist.m3u8",
+            "duration": "54:14"
+          },
+           {
+            "title": "الفيديو رقم 2 | المتتابعات  الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/b56a8f5f-0b96-442b-9d85-7c2d5a4dcab8/playlist.m3u8",
+            "duration": "64:45"
+          }
+        ],
+        "practice": [
+          {
+            "title": "المتتابعات  تجميعات",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/8f7b32e0-666a-43a0-9a5b-a431a523b27e/playlist.m3u8",
+            "duration": "87:52"
+          }  
+        ]
+      },
+        {
+        "id": "m4_49",
+        "title": "الاحتمالات   | التاسع",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | الاحتمالات  الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/c787f03a-b361-4366-ab41-e90e4a50cadf/playlist.m3u8",
+            "duration": "66:08"
+          },
+            {
+            "title": "الفيديو رقم 2 | الاحتمالات  الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/2fbdcc54-bb6e-457f-b2f1-bccfb7dcde37/playlist.m3u8",
+            "duration": "73:50"
+          },
+           {
+            "title": "الفيديو رقم 3 | الاحتمالات  الجزء الثالث",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/1159ce21-37b7-45c5-9b62-b1d99fc548c4/playlist.m3u8",
+            "duration": "55:35"
+          }
+        ],
+        "practice": [
+      {
+            "title": "الاحتمالات   تجميعات",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/640ee112-4713-423f-9397-991a96a13cfa/playlist.m3u8",
+            "duration": "70:39"
+          }      
+        ]
+      },
+             {
+        "id": "m4_410",
+        "title": "حساب المثلثات | الدرس العاشر ",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | حساب المثلثات الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/3c554719-1fcc-46f7-b8f7-870b23079fdf/playlist.m3u8",
+            "duration": "73:43"
+          },
+               {
+            "title": "الفيديو رقم 2 | حساب المثلثات الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/10201446-bd21-43b5-b2d6-5227f61a95b4/playlist.m3u8",
+            "duration": "66:01"
+          },
+               {
+            "title": "الفيديو رقم 3 | حساب المثلثات الجزء الثالث",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/eae2662c-eaae-4d89-adf8-3f15a34181da/playlist.m3u8",
+            "duration": "52:11"
+          }
+          
+        ],
+        "practice": [ {
+            "title": "حساب المثلثات تجميعات",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/8e8fd828-9c8f-4aa7-8d85-cdc17d61c437/playlist.m3u8",
+            "duration": "135:52"
+          }     ]
+      },
+        {
+        "id": "m4_411",
+        "title": "تحليل الدوال | الدرس الحادي عشر",
+        "foundation": [
+          {
+            "title": "الفيديو رقم 1 | تحليل الدوال",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/fd00db3c-613b-4974-9b84-b12951930c90/playlist.m3u8",
+            "duration": "83:27"
+          }
+        ],
+        "practice": [
+       {
+            "title": "تحليل الدوال تجميعات",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/d206b4a5-6f25-4fb5-a24f-a8c6b72d36ee/playlist.m3u8",
+            "duration": "65:02"
+          }   
+        ]
+      }
+    ],
+    "files": [
+      {
+        "title": "كتاب الرياضيات ",
+        "url": "https://drive.google.com/file/d/1L8xp3kammv5tjUkAtUTVI6XbG_N-yrv7/view?usp=sharing",
+        "type": "pdf"
+      },
+      {
+        "title": "توقعات الرياضيات",
+        "url": "https://drive.google.com/file/d/1nEUptx7pnQB7qHxIfcfk47xrrzBXrc3h/view?usp=sharing",
+        "type": "pdf"
+      }
+    ],
     "laws": []
   }
 }
