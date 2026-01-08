@@ -1163,17 +1163,153 @@
             "duration": "65:02"
           }   
         ]
+      },
+           {
+        "id": "m4_412",
+        "title": "الأسس واللوغاريتمات | الدرس الثاني عشر",
+        "foundation": [
+          {
+            "title": " الفيديو رقم 1 | الأسس واللوغاريتمات الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/d1aac9df-6336-4fc3-94e6-99f13f246445/playlist.m3u8",
+            "duration": "49:21"
+          },
+            {
+            "title": "الفيديو رقم 2 | الأسس واللوغاريتمات الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/6ece61bb-5f22-4a16-a7c6-2d3fe88ed4ca/playlist.m3u8",
+            "duration": "53:26"
+          }
+        ],
+        "practice": [
+       {
+            "title": "الأسس واللوغاريتمات تجميعات",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/19004bc0-9d7a-4a50-bf5e-6b8bbb75e9b6/playlist.m3u8",
+            "duration": "78:19"
+          }   
+        ]
+      },
+            {
+        "id": "m4_413",
+        "title": "القطوع | الدرس الثالث عشر",
+        "foundation": [
+          {
+            "title": " الفيديو رقم 1 | القطوع الجزء الأول",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/674811bb-aad4-4ff0-bc54-18fec5b5538b/playlist.m3u8",
+            "duration": "65:55"
+          },
+            {
+            "title": "الفيديو رقم 2 | القطوع الجزء الثاني",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/ade60a1e-1a21-4c21-a2b8-d40a856d4cc1/playlist.m3u8",
+            "duration": "37:56"
+          }
+        ],
+        "practice": [
+       {
+            "title": "القطوع تجميعات الدرس الثالث عشر",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/9645b44d-d170-4cdd-90fb-63061e925b3f/playlist.m3u8",
+            "duration": "41:45"
+          }   
+        ]
+      },
+               {
+        "id": "m4_414",
+        "title": "المتجهات | الدرس الرابع عشر",
+        "foundation": [
+          {
+            "title": " الفيديو رقم 1 | المتجهات ",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/2529ae52-e8c0-4fc6-a052-377d7c1a7f74/playlist.m3u8",
+            "duration": "95:39"
+          }
+        ],
+        "practice": [
+       {
+            "title": "المتجهات  الدرس الرابع عشر",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/e23235a0-51c9-492c-8a39-4fe40af2beb2/playlist.m3u8",
+            "duration": "32:06"
+          }   
+        ]
+      },
+                   {
+        "id": "m4_415",
+        "title": "الاحداثيات القطبية | الدرس الخامس عشر",
+        "foundation": [
+          {
+            "title": " الفيديو رقم 1 | الاحداثيات القطبية ",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/2b18d429-49cf-43b2-9e0a-85cf8959196b/playlist.m3u8",
+            "duration": "43:43"
+          }
+        ],
+        "practice": [
+       {
+            "title": "الاحداثيات القطبية  الدرس الخامس عشر",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/bb84c81c-0d09-4d97-bdb8-836775ebbda9/playlist.m3u8",
+            "duration": "50:09"
+          }   
+        ]
+      },
+                         {
+        "id": "m4_416",
+        "title": "النهايات  | الدرس السادس عشر",
+        "foundation": [
+          {
+            "title": " الفيديو رقم 1 | النهايات",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/f4c9b2ea-54a5-4b2f-99ff-a10d0fa01d9b/playlist.m3u8",
+            "duration": "74:06"
+          }
+        ],
+        "practice": [
+       {
+            "title": "النهايات الدرس السادس عشر",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/1c1febd8-2f94-4d25-940b-5bdde161fbc8/playlist.m3u8",
+            "duration": "36:35"
+          }   
+        ]
+      },
+                            {
+        "id": "m4_416",
+        "title": "الاشتقاق والتكامل  | الدرس السابع عشر",
+        "foundation": [
+          {
+            "title": " الفيديو رقم 1 | الاشتقاق والتكامل",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/811be726-a21f-40c9-a732-84b3b300300a/playlist.m3u8",
+            "duration": "90:47"
+          }
+        ],
+        "practice": [
+       {
+            "title": "الاشتقاق والتكامل الدرس السابع عشر",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/7014fbb1-ff37-450f-b623-36e3f4ba4fa7/playlist.m3u8",
+            "duration": "70:36"
+          }   
+        ]
+      },
+                                  {
+        "id": "m4_417",
+        "title": "تست",
+        "foundation": [
+          {
+            "title": " تست",
+            "videoUrl": "https://vz-dcd20d23-094.b-cdn.net/b58abd2f-9cae-41a7-859d-da557b2c09de/playlist.m3u8",
+            "duration": "90:47"
+          }
+        ],
+        "practice": [
+       {
+            "title": "الاشتقاق والتكامل الدرس السابع عشر",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/7014fbb1-ff37-450f-b623-36e3f4ba4fa7/playlist.m3u8",
+            "duration": "70:36"
+          }   
+        ]
       }
     ],
     "files": [
       {
         "title": "كتاب الرياضيات ",
-        "url": "https://drive.google.com/file/d/1L8xp3kammv5tjUkAtUTVI6XbG_N-yrv7/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/1MeKJXOOFvu2sOmEqIpklS5DMlcYd0FEw/view?usp=sharing",
         "type": "pdf"
       },
       {
         "title": "توقعات الرياضيات",
-        "url": "https://drive.google.com/file/d/1nEUptx7pnQB7qHxIfcfk47xrrzBXrc3h/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/1mAzBgdnkhWl0h_txlJBnju9ABYcDRLpx/view?usp=sharing",
         "type": "pdf"
       }
     ],
