@@ -4,11 +4,14 @@
       {
         "id": "p1_l0",
         "title": "المقدمة",
+  "idcourse": "0", 
         "foundation": [
           {
             "title": "المقدمة",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/adac7ca7-c779-404d-87e6-3d6c91c8c8f3/playlist.m3u8",
-            "duration": "17:54"
+            "duration": "17:54",
+         "idvideo": "1" // رقم الجزء الأول
+
           }
         ],
         "practice": []
@@ -16,54 +19,64 @@
       {
         "id": "p1_l1",
         "title": "علم الفيزياء | الدرس الاول",
+          "idcourse": "1", 
         "foundation": [
           {
             "title": "الفيديو رقم 1 | الدرس الأول علم الفيزياء",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/eeeb17bc-a0fd-443e-8c6a-31392289f93a/playlist.m3u8",
-            "duration": "1:40:55"
+            "duration": "1:40:55" ,
+         "idvideo": "f1"
           }
         ],
         "practice": [
           {
             "title": "تجميعات علم الفيزياء الدرس الاول",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/5d98ccc5-aeeb-4016-b003-3b366d4e54c6/playlist.m3u8",
-            "duration": "49:41"
+            "duration": "49:41",
+         "idvideo": "p1"
           }
         ]
       },
       {
         "id": "p1_12",
         "title": "الميكانيكا | الدرس الثاني",
+          "idcourse": "2", 
         "foundation": [
           {
             "title": "الفيديو رقم 1 | الدرس الثاني الميكانيكا الجزء الأول",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/b7be041c-f017-4982-98b9-179b38435f0e/playlist.m3u8",
-            "duration": "121:47"
+            "duration": "121:47",
+         "idvideo": "f1"
           },
              {
             "title": "الفيديو رقم 2 | الدرس الثاني الميكانيكا الجزء الثاني",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/eb1ba47d-1c34-4317-8584-6247accb2b30/playlist.m3u8",
-            "duration": "87:58"
+            "duration": "87:58",
+         "idvideo": "f2"
           },
                 {
             "title": "الفيديو رقم 3 | الدرس الثاني الميكانيكا الجزء الثالث",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/fe73ed85-2977-4132-97a1-e3893d4340da/playlist.m3u8",
-            "duration": "76:47"
+            "duration": "76:47",
+         "idvideo": "3"
           },
                    {
             "title": "الفيديو رقم 4 | الدرس الثاني الميكانيكا الجزء الرابع",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/b686690e-3574-45c8-9e7c-b37cc5bbee1b/playlist.m3u8",
-            "duration": "83:18"
+            "duration": "83:18",
+         "idvideo": "4"
           },
                    {
             "title": "الفيديو رقم 5 | الدرس الثاني الميكانيكا الجزء الخامس",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/14105160-e1f3-40f3-9dbb-919422337c57/playlist.m3u8",
-            "duration": "90:49"
+            "duration": "90:49",
+         "idvideo": "5"
           },
                    {
             "title": "الفيديو رقم 6 | الدرس الثاني الميكانيكا الجزء السادس والاخير",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/ac8da8d9-f5ce-4622-a09b-dbf232d20f48/playlist.m3u8",
-            "duration": "71:50"
+            "duration": "71:50",
+         "idvideo": "6"
           }
           
         ],
@@ -71,58 +84,69 @@
           {
             "title": "تجميعات الدرس الثاني الجزء الأول",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/81d6b471-0ad8-4b9c-bfe8-248813bcae9b/playlist.m3u8",
-            "duration": "101:05"
+            "duration": "101:05",
+         "idvideo": "p1"
           },
       {
             "title": "تجميعات الدرس الثاني الجزء الثاني",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/27bf6148-0dfa-4a58-95ff-f93a5cf84e4b/playlist.m3u8",
-            "duration": "81:55"
+            "duration": "81:55",
+         "idvideo": "p2"
           },
       {
             "title": "تجميعات الدرس الثاني الجزء الثالث",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/351ad69d-5c70-4920-9b18-085724d38fd0/playlist.m3u8",
-            "duration": "94:20"
+            "duration": "94:20",
+         "idvideo": "p3"
           }
         ]
       },
       {
         "id": "p1_l3",
         "title": "الطاقة الدرس | الثالث",
+          "idcourse": "3", 
         "foundation": [
           {
             "title": "الفيديو رقم 1 | الدرس الثالث الطاقة الجزء الأول",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/823f2caf-a9da-44d2-b047-5cffb4d40281/playlist.m3u8",
-            "duration": "81:50"
+            "duration": "81:50",
+         "idvideo": "f1"
           },
             {
             "title": "الفيديو رقم 2 | الدرس الثالث الطاقة الجزء الثاني",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/407a0024-c8cc-4c13-9e87-238d1089cec1/playlist.m3u8",
-            "duration": "76:18"
+            "duration": "76:18",
+         "idvideo": "f2"
           }
         ],
         "practice": [
           {
             "title": "تجميعات الطاقة الدرس الثالث",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/e92db12d-c9e5-44d5-992d-a78fee378d1e/playlist.m3u8",
-            "duration": "99:36"
+            "duration": "99:36",
+         "idvideo": "p1"
           }
         ]
       },
             {
         "id": "p1_l4",
         "title": "حالات المادة | الرابع",
+                "idcourse": "4", 
+
         "foundation": [
           {
             "title": "الفيديو رقم 1 | الدرس الرابع  حالات المادة كامل",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/53f00197-e44d-4ede-b78d-d42eeb6d29ec/playlist.m3u8",
-            "duration": "116:26"
+            "duration": "116:26",
+         "idvideo": "f1"
           }
         ],
         "practice": [
           {
             "title": "تجميعات حالات المادة الدرس الرابع",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/e082aa4e-7372-4191-b339-df2ecb858ee5/playlist.m3u8",
-            "duration": "47:16"
+            "duration": "47:16",
+         "idvideo": "p1"
           }
         ]
       },
@@ -1271,24 +1295,6 @@
           {
             "title": " الفيديو رقم 1 | الاشتقاق والتكامل",
             "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/811be726-a21f-40c9-a732-84b3b300300a/playlist.m3u8",
-            "duration": "90:47"
-          }
-        ],
-        "practice": [
-       {
-            "title": "الاشتقاق والتكامل الدرس السابع عشر",
-            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/7014fbb1-ff37-450f-b623-36e3f4ba4fa7/playlist.m3u8",
-            "duration": "70:36"
-          }   
-        ]
-      },
-                                  {
-        "id": "m4_418",
-        "title": "تست",
-        "foundation": [
-          {
-            "title": " تست",
-            "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/a9acbde0-1b41-4cd3-8d5e-5444564d0dc3/playlist.m3u8",
             "duration": "90:47"
           }
         ],
