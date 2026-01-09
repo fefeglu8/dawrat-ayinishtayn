@@ -112,7 +112,112 @@
         "idvideo": "p1"
       }
     ]
-  }
+  },
+    {
+    "id": "p2_l0",
+    "title": " قوانين كبلر _ الحركة الدائرية",
+    "idcourse": "0",
+    "grade": "2",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 14 | قوانين كبلر _ الحركة الدائرية",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/789ac0ca-f540-4603-b3a9-35f24f30572f/playlist.m3u8",
+        "duration": "72:72",
+        "idvideo": "1"
+      }
+    ],
+    "practice": []
+  },
+  {
+    "id": "p2_l1",
+    "title": "العزم",
+    "idcourse": "1",
+    "grade": "2",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 15 | العزم",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/8d101b49-c449-4ca8-8f3e-911a103fe3e5/playlist.m3u8",
+        "duration": "57:56",
+        "idvideo": "f1"
+      }
+    ],
+    "practice": []
+  },
+  {
+    "id": "p2_l2",
+    "title": "الدفع والزخم",
+    "idcourse": "2",
+    "grade": "2",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 16 | الدفع والزخم",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/bffa9285-b30d-4f6a-a7c9-fc993769354c/playlist.m3u8",
+        "duration": "78:56",
+        "idvideo": "f1"
+      }
+    ],
+    "practice": []
+  },
+  {
+    "id": "p2_l3",
+    "title": "الشغل",
+    "idcourse": "3",
+    "grade": "2",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 17 | الشغل",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/d663e3de-c554-4cba-a9b8-6eabb3dc1545/playlist.m3u8",
+        "duration": "94:50",
+        "idvideo": "f1"
+      }
+    ],
+    "practice": []
+  },
+  {
+    "id": "p2_l4",
+    "title": "نظرية الشغل والطاقة _ القدرة _ الألات",
+    "idcourse": "4",
+    "grade": "2",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 18 | نظرية الشغل والطاقة _ القدرة _ الألات",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/e2da0548-866f-4c1e-94fc-7bbd3f6cd6bc/playlist.m3u8",
+        "duration": "64:29",
+        "idvideo": "f1"
+      }
+    ],
+    "practice": []
+  },
+  {
+    "id": "p2_l5",
+    "title": "الحرارة ",
+    "idcourse": "5",
+    "grade": "2",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 19 | الحرارة ( ص 68 : 73 )",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/081d5836-158e-4972-ace5-5996e1381f8b/playlist.m3u8",
+        "duration": "76:26",
+        "idvideo": "f1"
+      }
+    ],
+    "practice": []
+  },
+  {
+    "id": "p2_l6",
+    "title": "منهج ثاني أسئلة المتفوقين و تجميعات",
+    "idcourse": "6",
+    "grade": "2",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 20 | أسئلة المتفوقين _ تجميعات مهمة",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/45747857-5972-418d-b71a-2c0360acd39a/playlist.m3u8",
+        "duration": "118:15",
+        "idvideo": "f1"
+      }
+    ],
+    "practice": []
+  }   
     ],
     "files": [
       {
