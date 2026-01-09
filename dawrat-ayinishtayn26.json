@@ -105,14 +105,25 @@
       }
     ],
     "practice": [
+   
+    ]
+  },
+        {
+    "id": "p1_l3",
+    "title": "تجميعات مهمة على منهج أول ثانوي",
+    "idcourse": "0",
+    "grade": "1",
+    "foundation": [
       {
         "title": "الفيديو رقم 13 | تجميعات مهمة على منهج أول ثانوي",
         "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/2dece8b7-4127-4c00-89c3-9c6255c24cf8/playlist.m3u8",
-        "duration": "117:07",
+        "duration": "15:29",
         "idvideo": "p1"
       }
-    ]
+    ],
+    "practice": []
   },
+      
     {
     "id": "p2_l0",
     "title": " قوانين كبلر _ الحركة الدائرية",
