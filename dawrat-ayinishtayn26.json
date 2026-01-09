@@ -228,7 +228,67 @@
       }
     ],
     "practice": []
-  }   
+  },
+      {
+    "id": "p3_l0",
+    "title": "الضغط",
+    "idcourse": "0",
+    "grade": "3",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 21 | الضغط",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/e3d7fe1d-f4c4-4d5e-9b06-94d320536a14/playlist.m3u8",
+        "duration": "42:03",
+        "idvideo": "1"
+      }
+    ],
+    "practice": []
+  },
+  {
+    "id": "p3_l1",
+    "title": "الطفو",
+    "idcourse": "1",
+    "grade": "3",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 22 | الطفو",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/7e607a17-d4c3-454e-b51b-8218d0e4953e/playlist.m3u8",
+        "duration": "93:52",
+        "idvideo": "f1"
+      }
+    ],
+    "practice": []
+  },
+  {
+    "id": "p3_l2",
+    "title": "الاهتزازات والموجات",
+    "idcourse": "2",
+    "grade": "3",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 23 | الاهتزازات والموجات",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/f5126d59-8f8f-4792-b0b9-e989e8b5f2ad/playlist.m3u8",
+        "duration": "87:35",
+        "idvideo": "f1"
+      }
+    ],
+    "practice": []
+  },
+  {
+    "id": "p3_l3",
+    "title": "الرنين",
+    "idcourse": "3",
+    "grade": "2",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 24 | الرنين",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/edf3a07e-beac-4fd0-8a32-1b422884f1a2/playlist.m3u8",
+        "duration": "83:31",
+        "idvideo": "f1"
+      }
+    ],
+    "practice": []
+  }
     ],
     "files": [
       {
