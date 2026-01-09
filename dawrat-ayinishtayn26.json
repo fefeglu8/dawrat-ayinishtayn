@@ -1,7 +1,7 @@
 {
   "physics": {
     "lessons": [
-      {
+       {
     "id": "p1_l0",
     "title": "المقدمة",
     "idcourse": "0",
@@ -9,12 +9,109 @@
     "foundation": [
       {
         "title": "المقدمة",
-        "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/adac7ca7-c779-404d-87e6-3d6c91c8c8f3/playlist.m3u8",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/348427be-8e67-4f33-bde0-63e4a062657a/playlist.m3u8",
         "duration": "15:29",
         "idvideo": "1"
       }
     ],
     "practice": []
+  },
+  {
+    "id": "p1_l1",
+    "title": "مدخل إلى علم الفيزياء",
+    "idcourse": "1",
+    "grade": "1",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 1 | مدخل إلى علم الفيزياء",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/85da2598-c4a5-4dff-8cde-a938a44c735f/playlist.m3u8",
+        "duration": "46:06",
+        "idvideo": "f1"
+      },
+      {
+        "title": "الفيديو رقم 2 | مدخل إلى علم الفيزياء",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/74a95f97-9d60-41af-bdab-f1af0ade29a7/playlist.m3u8",
+        "duration": "25:03",
+        "idvideo": "f2"
+      },
+      {
+        "title": "الفيديو رقم 3 | مدخل إلى علم الفيزياء",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/8109bd95-7638-4d0d-9be7-827dc78cd510/playlist.m3u8",
+        "duration": "53:01",
+        "idvideo": "f3"
+      }
+    ],
+    "practice": []
+  },
+  {
+    "id": "p1_l2",
+    "title": "الميكانيكا",
+    "idcourse": "2",
+    "grade": "1",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 4 | الميكانيكا",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/06240e57-d97e-482a-a266-8b167a370e19/playlist.m3u8",
+        "duration": "36:47",
+        "idvideo": "f1"
+      },
+      {
+        "title": "الفيديو رقم 5 | الميكانيكا",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/d4718a2a-db77-4984-bd5a-8ef6530d031a/playlist.m3u8",
+        "duration": "34:09",
+        "idvideo": "f2"
+      },
+      {
+        "title": "الفيديو رقم 6 | الميكانيكا",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/0404d5f1-3c2a-4927-9b70-e7455612d763/playlist.m3u8",
+        "duration": "61:01",
+        "idvideo": "f3"
+      },
+      {
+        "title": "الفيديو رقم 7 | الميكانيكا",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/26441e02-46c7-495a-b3bf-0b2355360a04/playlist.m3u8",
+        "duration": "38:54",
+        "idvideo": "f4"
+      },
+      {
+        "title": "الفيديو رقم 8 | الميكانيكا",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/09b28af1-f8cb-462d-b808-fab6abc8f3c5/playlist.m3u8",
+        "duration": "62:16",
+        "idvideo": "f5"
+      },
+      {
+        "title": "الفيديو رقم 9 | الميكانيكا",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/8e2696a7-80bd-45a0-916f-194d3a7b9045/playlist.m3u8",
+        "duration": "62:53",
+        "idvideo": "f6"
+      },
+      {
+        "title": "الفيديو رقم 10 | الميكانيكا",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/cd9efab9-5f32-4332-acea-51c2d1dce1f7/playlist.m3u8",
+        "duration": "66:23",
+        "idvideo": "f7"
+      },
+      {
+        "title": "الفيديو رقم 11 | الميكانيكا",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/231a0f79-4968-431d-9db7-3c7d98b78cb5/playlist.m3u8",
+        "duration": "44:05",
+        "idvideo": "f8"
+      },
+      {
+        "title": "الفيديو رقم 12 | الميكانيكا",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/b57bfd87-a24a-4889-80b1-bd131bc7c46e/playlist.m3u8",
+        "duration": "65:07",
+        "idvideo": "f9"
+      }
+    ],
+    "practice": [
+      {
+        "title": "الفيديو رقم 13 | تجميعات مهمة على منهج أول ثانوي",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/2dece8b7-4127-4c00-89c3-9c6255c24cf8/playlist.m3u8",
+        "duration": "117:07",
+        "idvideo": "p1"
+      }
+    ]
   }
     ],
     "files": [
