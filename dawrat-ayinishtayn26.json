@@ -1,0 +1,42 @@
+{
+  "physics": {
+    "lessons": [
+      {
+        "id": "p1_l0",
+        "title": "المقدمة",
+  "idcourse": "0", 
+        "grade": "1",
+        "foundation": [
+          {
+            "title": "المقدمة",
+            "videoUrl": "https://vz-c4af1c65-e31.b-cdn.net/adac7ca7-c779-404d-87e6-3d6c91c8c8f3/playlist.m3u8",
+            "duration": "17:54",
+         "idvideo": "1" 
+          }
+        ],
+        "practice": []
+      }
+     
+    ],
+    "practice": [
+     
+    ]
+  }
+    ],
+    "files": [
+      {
+        "title": "كتاب الفيزياء",
+        "url": "https://drive.google.com/file/d/1dKOhPlx8UD9RA_A8QgrfPRxafPCvfwfY/view?usp=sharing",
+        "type": "pdf"
+      },
+      {
+        "title": "نماذج اينشتاين",
+        "url": "https://drive.google.com/file/d/1kiI7XR9v3Vepy7XLM0QvGJN2sanbbu4T/view?usp=sharing",
+        "type": "pdf"
+      }
+    ],
+    "laws": [
+     
+    ]
+  }
+}
