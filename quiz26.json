@@ -1,40 +1,22 @@
 [
-  {
-    "id": "q1",
-    "question": "ما هي وحدة قياس السرعة؟",
-    "image": "", 
-    "choices": [
-      "m/s",
-      "m/s²",
-      "kg.m/s",
-      "N"
-    ],
-    "answer": 0,
-    "explanation": "السرعة هي المسافة المقطوعة خلال زمن معين، ووحدتها متر لكل ثانية.",
-    "source": "دورة أينشتاين 2026",
-    "subject": "الفيزياء",
-    "lessontitle": "مدخل إلى علم الفيزياء",
-    "نوع السوال": "تجميعات",
-    "lessonfoundation": "",
-    "lessonpractice": "الفيديو رقم 1 | مدخل إلى علم الفيزياء"
-  },
-   {
-    "id": "q2",
-    "question": "ما هي وحدة قياس السرعة؟",
-    "image": "", 
-    "choices": [
-      "m/s",
-      "m/s²",
-      "kg.m/s",
-      "N"
-    ],
-    "answer": 0,
-    "explanation": "السرعة هي المسافة المقطوعة خلال زمن معين، ووحدتها متر لكل ثانية.",
-    "source": "دورة أينشتاين 2026",
-    "subject": "الفيزياء",
-    "lessontitle": "مدخل إلى علم الفيزياء",
-    "نوع السوال": "تجميعات",
-    "lessonfoundation": "",
-    "lessonpractice": "الفيديو رقم 1 | مدخل إلى علم الفيزياء"
-  }
+{
+  "id": "q1",
+  "question": "أي الصيغ التالية تكافئ العلاقة: T = (V·S) / m² ؟",
+  "image": "https://raw.githubusercontent.com/fefeglu8/dawrat-ayinishtaynpdf/refs/heads/main/q1.png",
+  "choices": [
+    "m = √(T / (V·S)) أ",
+    "m = √((V·S) / T) ب",
+    "m² = √(T / (V·S)) ج",
+    "m² = √((V·S) / T) د"
+  ],
+  "answer": 1,
+  "explanation": "نبدأ من العلاقة المعطاة:\nT = (V·S) / m²\n\nنضرب الطرفين في m²:\nT·m² = V·S\n\nنقسم على T:\nm² = (V·S) / T\n\nنأخذ الجذر التربيعي:\nm = √((V·S) / T)",
+  "source": "دورة أينشتاين 2026",
+  "subject": "الفيزياء",
+  "lessontitle": "مدخل إلى علم الفيزياء",
+  "نوع السوال": "تجميعات",
+  "lessonfoundation": "",
+  "lessonpractice": "الفيديو رقم 1,2 | مدخل إلى علم الفيزياء"
+}
+
 ]
