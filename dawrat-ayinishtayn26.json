@@ -111,7 +111,7 @@
         {
     "id": "p1_l3",
     "title": "تجميعات مهمة على منهج أول ثانوي",
-    "idcourse": "0",
+    "idcourse": "3",
     "grade": "1",
     "foundation": [
       {
@@ -127,7 +127,7 @@
     {
     "id": "p2_l0",
     "title": " قوانين كبلر _ الحركة الدائرية",
-    "idcourse": "0",
+    "idcourse": "4",
     "grade": "2",
     "foundation": [
       {
@@ -142,7 +142,7 @@
   {
     "id": "p2_l1",
     "title": "العزم",
-    "idcourse": "1",
+    "idcourse": "5",
     "grade": "2",
     "foundation": [
       {
@@ -157,7 +157,7 @@
   {
     "id": "p2_l2",
     "title": "الدفع والزخم",
-    "idcourse": "2",
+    "idcourse": "6",
     "grade": "2",
     "foundation": [
       {
@@ -172,7 +172,7 @@
   {
     "id": "p2_l3",
     "title": "الشغل",
-    "idcourse": "3",
+    "idcourse": "7",
     "grade": "2",
     "foundation": [
       {
@@ -187,7 +187,7 @@
   {
     "id": "p2_l4",
     "title": "نظرية الشغل والطاقة _ القدرة _ الألات",
-    "idcourse": "4",
+    "idcourse": "8",
     "grade": "2",
     "foundation": [
       {
@@ -202,7 +202,7 @@
   {
     "id": "p2_l5",
     "title": "الحرارة ",
-    "idcourse": "5",
+    "idcourse": "9",
     "grade": "2",
     "foundation": [
       {
@@ -217,7 +217,7 @@
   {
     "id": "p2_l6",
     "title": "منهج ثاني أسئلة المتفوقين و تجميعات",
-    "idcourse": "6",
+    "idcourse": "10",
     "grade": "2",
     "foundation": [
       {
@@ -232,7 +232,7 @@
       {
     "id": "p3_l0",
     "title": "الضغط",
-    "idcourse": "0",
+    "idcourse": "11",
     "grade": "3",
     "foundation": [
       {
@@ -247,7 +247,7 @@
   {
     "id": "p3_l1",
     "title": "الطفو",
-    "idcourse": "1",
+    "idcourse": "12",
     "grade": "3",
     "foundation": [
       {
@@ -262,7 +262,7 @@
   {
     "id": "p3_l2",
     "title": "الاهتزازات والموجات",
-    "idcourse": "2",
+    "idcourse": "13",
     "grade": "3",
     "foundation": [
       {
@@ -277,7 +277,7 @@
   {
     "id": "p3_l3",
     "title": "الرنين",
-    "idcourse": "3",
+    "idcourse": "14",
     "grade": "3",
     "foundation": [
       {
@@ -288,7 +288,22 @@
       }
     ],
     "practice": []
-  }
+  },
+     {
+    "id": "p3_l4",
+    "title": "تأثير دوبلر _ الانعكاس _ المرايا المستوية",
+    "idcourse": "15",
+    "grade": "3",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 25 |  تأثير دوبلر _ الانعكاس _ المرايا المستوية",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/edf3a07e-beac-4fd0-8a32-1b422884f1a2/playlist.m3u8",
+        "duration": "79:51",
+        "idvideo": "f1"
+      }
+    ],
+    "practice": []
+  }   
     ],
     "files": [
       {
