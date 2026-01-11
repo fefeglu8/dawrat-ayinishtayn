@@ -297,13 +297,58 @@
     "foundation": [
       {
         "title": "الفيديو رقم 25 |  تأثير دوبلر _ الانعكاس _ المرايا المستوية",
-        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/edf3a07e-beac-4fd0-8a32-1b422884f1a2/playlist.m3u8",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/6a39afb9-2376-4bb7-b529-a39d035be7a8/playlist.m3u8",
         "duration": "79:51",
         "idvideo": "f1"
       }
     ],
     "practice": []
-  }   
+  } ,
+        {
+    "id": "p3_l5",
+    "title": "المرايا الكروية _ العدسات",
+    "idcourse": "16",
+    "grade": "3",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 26 | المرايا الكروية _ العدسات",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/4085e2f5-8a55-49fd-b607-a04a8c2fa8fa/playlist.m3u8",
+        "duration": "92:54",
+        "idvideo": "f1"
+      }
+    ],
+    "practice": []
+  } ,
+           {
+    "id": "p3_l6",
+    "title": "معادلة المرايا و العدسات",
+    "idcourse": "17",
+    "grade": "3",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 27 | معادلة المرايا و العدسات",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/cbc5dc6d-bd8a-4d9d-abff-cd44773e07ad/playlist.m3u8",
+        "duration": "62:09",
+        "idvideo": "f1"
+      }
+    ],
+    "practice": []
+  } ,
+              {
+    "id": "p3_l7",
+    "title": "التداخل في الضوء",
+    "idcourse": "18",
+    "grade": "3",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 28 | التداخل في الضوء",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/0b519a23-89f4-40c4-b1c8-f815f2121205/playlist.m3u8",
+        "duration": "38:23",
+        "idvideo": "f1"
+      }
+    ],
+    "practice": []
+  } 
     ],
     "files": [
       {
