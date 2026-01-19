@@ -348,7 +348,181 @@
       }
     ],
     "practice": []
+  } ,
+            {
+    "id": "p3_l8",
+    "title": "الكهرباء الساكنة",
+    "idcourse": "19",
+    "grade": "3",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 29 | الكهرباء الساكنة",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/4cac392e-bf0d-4f5d-97cb-58e8ee7cb591/playlist.m3u8",
+        "duration": "87:01",
+        "idvideo": "f1"
+      }
+    ],
+    "practice": []
+  } , 
+            {
+    "id": "p3_l9",
+    "title": "المجال الكهربائي",
+    "idcourse": "20",
+    "grade": "3",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 30 | المجال الكهربائي",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/69846b88-1ded-4cae-80f3-fa7e8e0fed94/playlist.m3u8",
+        "duration": "92:49",
+        "idvideo": "f1"
+      }
+    ],
+    "practice": []
+  } , 
+            {
+    "id": "p3_20",
+    "title": "القدرة _ الطاقة",
+    "idcourse": "21",
+    "grade": "3",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 31 | القدرة _ الطاقة",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/37a7729a-b7ed-4687-972d-f99637583ec9/playlist.m3u8",
+        "duration": "90:38",
+        "idvideo": "f1"
+      }
+    ],
+    "practice": []
+  } , 
+            {
+    "id": "p3_21",
+    "title": "دائرة التوالي والتوازي",
+    "idcourse": "22",
+    "grade": "3",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 32 | دائرة التوالي والتوازي",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/745d8846-24bb-459a-a5a0-ffb7d17abb58/playlist.m3u8",
+        "duration": "130:45",
+        "idvideo": "f1"
+      }
+    ],
+    "practice": []
+  } , 
+            {
+    "id": "p3_22",
+    "title": "المغناطيسية",
+    "idcourse": "23",
+    "grade": "3",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 33 | المغناطيسية",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/37eecd0e-65aa-43a3-8af0-d93861f4c02d/playlist.m3u8",
+        "duration": "55:32",
+        "idvideo": "f1"
+      }
+    ],
+    "practice": []
+  } , 
+            {
+    "id": "p3_23",
+    "title": "قواعد اليد اليمنى _ الحث",
+    "idcourse": "24",
+    "grade": "3",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 34 | قواعد اليد اليمنى _ الحث",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/b6903a4a-641b-4108-94e7-d0087ef6216b/playlist.m3u8",
+        "duration": "58:40",
+        "idvideo": "f1"
+      }
+    ],
+    "practice": []
+  } , 
+            {
+    "id": "p3_24",
+    "title": "قانون لنز _المحول _المطياف",
+    "idcourse": "25",
+    "grade": "3",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 35 | قانون لنز _المحول _المطياف",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/2441e889-f929-49f4-888f-844988a4b0f1/playlist.m3u8",
+        "duration": "73:59",
+        "idvideo": "f1"
+      }
+    ],
+    "practice": []
+  } , 
+            {
+    "id": "p3_25",
+    "title": "الفيزياء الحديثة",
+    "idcourse": "26",
+    "grade": "3",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 36 | الفيزياء الحديثة",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/1b3a3a2f-66da-4354-b6b7-2caaef1bc203/playlist.m3u8",
+        "duration": "93:39",
+        "idvideo": "f1"
+      }
+    ],
+    "practice": []
+  } , 
+            {
+    "id": "p3_26",
+    "title": "طول موجة دي برولي _ نموذج بور",
+    "idcourse": "27",
+    "grade": "3",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 37 | طول موجة دي برولي _ نموذج بور",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/01a3d55c-10d0-4155-aa40-398e86a91a01/playlist.m3u8",
+        "duration": "83:56",
+        "idvideo": "f1"
+      }
+    ],
+    "practice": []
+  } , 
+            {
+    "id": "p3_27",
+    "title": "سلاسل طيف ذرة الهيدروجين _ الدايود",
+    "idcourse": "28",
+    "grade": "3",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 38 | سلاسل طيف ذرة الهيدروجين _ الدايود",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/1c024749-aa01-49ea-af21-ad8d5bea6151/playlist.m3u8",
+        "duration": "67:39",
+        "idvideo": "f1"
+      }
+    ],
+    "practice": []
+  } , 
+            {
+    "id": "p3_28",
+    "title": "الفيزياء النووية",
+    "idcourse": "29",
+    "grade": "3",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 39 | الفيزياء النووية",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/928bee98-fcaf-4699-ac52-d94f58ccc6f7/playlist.m3u8",
+        "duration": "49:15",
+        "idvideo": "f1"
+      },
+          {
+        "title": "الفيديو رقم 40 | الفيزياء النووية",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/0d0446f0-1dea-4288-98cb-bcd59a8f903b/playlist.m3u8",
+        "duration": "68:41",
+        "idvideo": "f2"
+      },
+      
+    ],
+    "practice": []
   } 
+ 
+      
     ],
     "files": [
       {
