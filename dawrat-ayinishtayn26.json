@@ -516,11 +516,37 @@
         "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/0d0446f0-1dea-4288-98cb-bcd59a8f903b/playlist.m3u8",
         "duration": "68:41",
         "idvideo": "f2"
-      }
-      
+           }
     ],
     "practice": []
-  } 
+  } ,
+             {
+    "id": "p3_29",
+    "title": "المتفوقين + تجميعات",
+    "idcourse": "30",
+    "grade": "3",
+    "foundation": [
+      {
+        "title": "الفيديو رقم 41 | المتفوقين + تجميعات ثالث ترم أول",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/5b78cc63-caa9-42c0-9988-c523db7df9b5/playlist.m3u8",
+        "duration": "134:19",
+        "idvideo": "f1"
+      },
+          {
+        "title": "الفيديو رقم 42 | تجميعات ثالث ثانوي ترم ثاني",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/3a14a760-82ed-4d02-9064-929047f0fe3c/playlist.m3u8",
+        "duration": "67:59",
+        "idvideo": "f2"
+           },
+             {
+        "title": "الفيديو 43 والأخير  | نهاية الفيزياء",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/05e04ce6-6441-4173-a686-4042b606f2a6/playlist.m3u8",
+        "duration": "46:03",
+        "idvideo": "f2"
+           }
+    ],
+    "practice": []
+  } ,
  
       
     ],
@@ -560,6 +586,32 @@
         "url": "https://drive.google.com/drive/folders/1tooZ_7QzWH6GkTdY5gV2Evgi6onUELlx?usp=drive_link",
         "type": "pdf"
       }
+    ],
+    "laws": [
+     
+    ]
+  },
+    "math": {
+    "lessons": [
+       {
+    "id": "p1_l0",
+    "title": "المقدمة",
+    "idcourse": "0",
+    "grade": "1",
+    "foundation": [
+      {
+        "title": "المقدمة",
+        "videoUrl": "https://vz-6d5341c3-4e6.b-cdn.net/59abb5b5-f8d3-49c5-80c1-70b5ae454464/playlist.m3u8",
+        "duration": "10:05",
+        "idvideo": "1"
+      }
+    ],
+    "practice": []
+  }
+      
+    ],
+    "files": [
+   
     ],
     "laws": [
      
